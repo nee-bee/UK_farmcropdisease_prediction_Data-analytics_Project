@@ -1,0 +1,1001 @@
+temperature,humidity,ph,rainfall,label,leaf_wetness,Yield(kg/ha),NDVI,Soil Moisture (%),Vegetation_Status,disease_desc
+20.88,82.0,6.5,202.94,potato,0.876,32607,0.62,45,"Very healthy, dense vegetation",Late Blight
+21.77,80.32,7.04,226.66,potato,0.986,21177,0.47,59,Moderately healthy vegetation,Late Blight
+23.0,82.32,7.84,263.96,potato,1.986,33904,0.55,46,Moderately healthy vegetation,Late Blight
+26.49,80.16,6.98,242.86,potato,2.986,34885,0.53,22,Moderately healthy vegetation,Late Blight
+20.13,81.6,7.63,262.72,potato,3.986,34910,0.32,26,Moderately healthy vegetation,Late Blight
+23.06,83.37,7.07,251.05,potato,4.986,30831,0.49,50,Moderately healthy vegetation,Late Blight
+22.71,82.64,5.7,271.32,potato,0.629,31889,0.66,52,"Very healthy, dense vegetation",Late Blight
+20.28,82.89,5.72,241.97,potato,0.652,24208,0.39,48,Moderately healthy vegetation,Late Blight
+24.52,83.54,6.69,230.45,potato,0.381,25858,0.59,33,Moderately healthy vegetation,Late Blight
+23.22,83.03,6.34,221.21,potato,0.468,29356,0.32,39,Moderately healthy vegetation,Late Blight
+26.53,81.42,5.39,264.61,potato,0.493,33398,0.42,35,Moderately healthy vegetation,Late Blight
+23.98,81.45,7.5,250.08,potato,0.989,25392,0.41,43,Moderately healthy vegetation,Late Blight
+26.8,80.89,5.11,284.44,potato,0.969,23294,0.56,16,Moderately healthy vegetation,Late Blight
+24.01,82.06,6.98,185.28,potato,0.979,28591,0.36,26,Moderately healthy vegetation,Late Blight
+25.67,80.66,6.95,209.59,potato,0.459,21783,0.39,45,Moderately healthy vegetation,Late Blight
+24.28,80.3,7.04,231.09,potato,0.864,34493,0.39,39,Moderately healthy vegetation,Late Blight
+21.59,82.79,6.25,276.66,potato,0.552,25881,0.48,28,Moderately healthy vegetation,Late Blight
+23.79,80.42,6.97,206.26,potato,0.693,34213,0.42,47,Moderately healthy vegetation,Late Blight
+21.87,80.19,5.95,224.56,potato,0.752,26580,0.5,29,Moderately healthy vegetation,Late Blight
+23.58,83.59,5.85,291.3,potato,0.735,25878,0.32,20,Moderately healthy vegetation,Late Blight
+21.33,80.47,6.44,185.5,potato,0.957,20209,0.68,18,"Very healthy, dense vegetation",Late Blight
+25.16,83.12,5.07,231.38,potato,0.53,25603,0.54,15,Moderately healthy vegetation,Late Blight
+21.95,80.97,6.01,213.36,potato,0.663,31424,0.4,43,Moderately healthy vegetation,Late Blight
+21.05,82.68,6.25,233.11,potato,0.476,33515,0.58,58,Moderately healthy vegetation,Late Blight
+23.48,81.33,7.38,224.06,potato,0.714,28356,0.46,20,Moderately healthy vegetation,Late Blight
+25.08,80.52,7.78,257.0,potato,0.518,30508,0.39,53,Moderately healthy vegetation,Late Blight
+26.36,84.04,6.29,271.36,potato,0.726,21736,0.46,46,Moderately healthy vegetation,Late Blight
+24.53,80.54,7.07,260.26,potato,0.523,22833,0.4,28,Moderately healthy vegetation,Late Blight
+20.78,84.5,6.24,240.08,potato,0.31,34224,0.39,55,Moderately healthy vegetation,Late Blight
+22.3,80.64,6.04,197.98,potato,0.459,32468,0.32,24,Moderately healthy vegetation,Late Blight
+21.45,84.94,5.82,272.2,potato,0.975,20878,0.41,25,Moderately healthy vegetation,Late Blight
+22.18,80.33,6.36,200.09,potato,0.495,20493,0.32,32,Moderately healthy vegetation,Late Blight
+24.53,82.74,6.36,224.68,potato,0.917,23923,0.69,10,"Very healthy, dense vegetation",Late Blight
+20.27,81.64,5.01,270.44,potato,0.379,29448,0.68,28,"Very healthy, dense vegetation",Late Blight
+25.74,83.88,6.15,233.13,potato,0.711,22897,0.69,28,"Very healthy, dense vegetation",Late Blight
+26.8,82.15,5.95,193.35,potato,0.356,27728,0.47,30,Moderately healthy vegetation,Late Blight
+26.76,81.18,5.96,272.3,potato,0.683,21218,0.31,28,Moderately healthy vegetation,Late Blight
+23.86,83.15,5.56,285.25,potato,0.514,23906,0.42,18,Moderately healthy vegetation,Late Blight
+21.02,82.95,7.42,298.4,potato,0.953,21048,0.45,46,Moderately healthy vegetation,Late Blight
+24.17,83.73,5.58,257.03,potato,0.826,29128,0.65,60,"Very healthy, dense vegetation",Late Blight
+22.78,82.07,6.43,248.72,potato,0.722,28356,0.61,46,"Very healthy, dense vegetation",Late Blight
+25.63,83.53,5.53,209.9,potato,0.722,32056,0.33,57,Moderately healthy vegetation,Late Blight
+25.6,80.15,6.9,200.83,potato,0.645,24144,0.68,39,"Very healthy, dense vegetation",Late Blight
+23.83,84.81,6.27,298.56,potato,0.974,29853,0.47,17,Moderately healthy vegetation,Late Blight
+26.31,82.37,7.22,265.54,potato,0.933,24368,0.39,28,Moderately healthy vegetation,Late Blight
+24.9,80.53,6.13,183.68,potato,0.913,21682,0.35,43,Moderately healthy vegetation,Late Blight
+24.96,84.48,5.21,196.96,potato,0.665,22194,0.61,32,"Very healthy, dense vegetation",Late Blight
+23.24,84.59,7.78,233.05,potato,0.778,24151,0.36,49,Moderately healthy vegetation,Late Blight
+21.67,80.71,7.06,210.81,potato,0.555,25670,0.39,49,Moderately healthy vegetation,Late Blight
+24.64,80.41,7.73,253.72,potato,0.313,22472,0.35,35,Moderately healthy vegetation,Late Blight
+23.43,83.06,5.29,219.9,potato,0.68,32619,0.5,41,Moderately healthy vegetation,Late Blight
+20.05,80.35,6.77,208.58,potato,0.804,28064,0.52,34,Moderately healthy vegetation,Late Blight
+23.86,82.23,7.38,195.09,potato,0.702,33897,0.4,19,Moderately healthy vegetation,Late Blight
+21.97,81.9,5.66,227.36,potato,0.822,33582,0.31,34,Moderately healthy vegetation,Late Blight
+26.23,83.84,5.54,286.51,potato,0.504,23162,0.35,12,Moderately healthy vegetation,Late Blight
+23.45,84.79,6.22,283.93,potato,0.466,23432,0.31,19,Moderately healthy vegetation,Late Blight
+25.66,83.47,7.12,217.38,potato,0.425,25205,0.37,19,Moderately healthy vegetation,Late Blight
+24.44,82.45,5.95,267.98,potato,0.744,20847,0.42,26,Moderately healthy vegetation,Late Blight
+20.28,82.12,7.24,191.95,potato,0.386,28541,0.4,58,Moderately healthy vegetation,Late Blight
+21.72,80.24,6.5,277.96,potato,0.811,22320,0.41,55,Moderately healthy vegetation,Late Blight
+20.41,82.21,7.59,245.15,potato,0.413,26145,0.67,24,"Very healthy, dense vegetation",Late Blight
+25.76,83.52,5.88,245.66,potato,0.93,31635,0.68,55,"Very healthy, dense vegetation",Late Blight
+20.62,83.77,6.93,279.55,potato,0.314,26744,0.6,55,"Very healthy, dense vegetation",Late Blight
+21.84,80.73,6.95,202.38,potato,0.598,21952,0.64,54,"Very healthy, dense vegetation",Late Blight
+20.08,83.29,5.74,263.64,potato,0.592,27914,0.46,50,Moderately healthy vegetation,Late Blight
+24.46,82.75,6.74,182.56,potato,0.431,21326,0.39,26,Moderately healthy vegetation,Late Blight
+21.14,80.34,5.59,198.67,potato,0.531,27163,0.7,39,"Very healthy, dense vegetation",Late Blight
+25.79,82.11,6.95,243.51,potato,0.761,33842,0.58,41,Moderately healthy vegetation,Late Blight
+23.64,80.29,5.01,263.11,potato,0.795,31661,0.48,30,Moderately healthy vegetation,Late Blight
+23.43,80.57,6.36,269.5,potato,0.333,22369,0.64,24,"Very healthy, dense vegetation",Late Blight
+24.98,83.89,6.88,204.8,potato,0.872,32644,0.67,21,"Very healthy, dense vegetation",Late Blight
+22.73,82.17,7.3,260.89,potato,0.911,21972,0.69,10,"Very healthy, dense vegetation",Late Blight
+24.87,82.84,6.59,295.61,potato,0.499,29320,0.61,19,"Very healthy, dense vegetation",Late Blight
+21.32,83.0,7.28,192.32,potato,0.584,22141,0.31,36,Moderately healthy vegetation,Late Blight
+26.29,84.57,7.02,257.49,potato,0.471,22699,0.31,38,Moderately healthy vegetation,Late Blight
+22.23,81.86,6.94,278.08,potato,0.398,34724,0.67,47,"Very healthy, dense vegetation",Late Blight
+26.73,81.79,7.87,280.4,potato,0.767,24168,0.43,15,Moderately healthy vegetation,Late Blight
+24.89,81.98,5.01,185.95,potato,0.338,28317,0.55,51,Moderately healthy vegetation,Late Blight
+26.88,81.46,6.14,194.58,potato,0.405,26175,0.58,15,Moderately healthy vegetation,Late Blight
+22.68,83.73,7.52,200.91,potato,0.476,33995,0.69,35,"Very healthy, dense vegetation",Late Blight
+26.09,80.38,5.71,182.9,potato,0.877,24123,0.6,48,"Very healthy, dense vegetation",Late Blight
+25.43,82.95,5.76,195.36,potato,0.564,23313,0.68,12,"Very healthy, dense vegetation",Late Blight
+26.4,81.06,6.35,223.37,potato,0.81,20455,0.49,31,Moderately healthy vegetation,Late Blight
+26.04,84.97,6.0,186.75,potato,0.933,29492,0.66,16,"Very healthy, dense vegetation",Late Blight
+25.28,80.54,5.45,220.12,potato,0.581,25159,0.39,52,Moderately healthy vegetation,Late Blight
+22.09,83.47,6.37,231.74,potato,0.877,22173,0.62,48,"Very healthy, dense vegetation",Late Blight
+23.29,81.43,5.11,242.32,potato,0.785,23739,0.55,47,Moderately healthy vegetation,Late Blight
+25.49,81.41,5.94,182.65,potato,0.751,31172,0.52,60,Moderately healthy vegetation,Late Blight
+23.68,81.04,5.18,233.7,potato,0.715,24443,0.38,60,Moderately healthy vegetation,Late Blight
+20.82,84.13,6.46,230.22,potato,0.74,24594,0.66,49,"Very healthy, dense vegetation",Late Blight
+26.93,81.91,7.07,290.68,potato,0.715,23124,0.39,50,Moderately healthy vegetation,Late Blight
+23.84,83.88,7.47,241.2,potato,0.845,32629,0.32,40,Moderately healthy vegetation,Late Blight
+26.53,80.12,6.16,218.92,potato,0.517,22729,0.52,43,Moderately healthy vegetation,Late Blight
+26.46,83.86,7.55,248.23,potato,0.396,33181,0.55,19,Moderately healthy vegetation,Late Blight
+22.7,82.81,6.03,257.0,potato,0.59,30929,0.5,45,Moderately healthy vegetation,Late Blight
+22.68,83.46,6.6,194.27,potato,0.77,21293,0.6,58,"Very healthy, dense vegetation",Late Blight
+21.53,82.14,6.5,295.92,potato,0.314,25885,0.61,39,"Very healthy, dense vegetation",Late Blight
+21.41,83.33,5.94,287.58,potato,0.654,33374,0.34,30,Moderately healthy vegetation,Late Blight
+26.54,84.67,7.07,183.62,potato,0.306,29325,0.34,59,Moderately healthy vegetation,Late Blight
+23.36,83.6,5.33,188.41,potato,0.451,28087,0.61,53,"Very healthy, dense vegetation",Late Blight
+22.61,63.69,5.75,87.76,barley,0.702,34597,0.31,39,Moderately healthy vegetation,Net Blotch
+26.1,71.57,6.93,102.27,barley,0.322,23305,0.52,52,Moderately healthy vegetation,Net Blotch
+23.56,71.59,6.66,66.72,barley,0.606,33627,0.69,28,"Very healthy, dense vegetation",Net Blotch
+19.97,57.68,6.6,60.65,barley,0.316,22338,0.45,11,Moderately healthy vegetation,Net Blotch
+18.48,62.7,5.97,65.44,barley,0.793,25347,0.59,23,Moderately healthy vegetation,Net Blotch
+21.78,57.81,6.16,102.09,barley,0.97,27144,0.68,46,"Very healthy, dense vegetation",Net Blotch
+25.62,66.5,6.05,105.47,barley,0.718,26774,0.37,22,Moderately healthy vegetation,Net Blotch
+25.19,66.69,5.91,78.07,barley,0.939,31418,0.49,49,Moderately healthy vegetation,Net Blotch
+20.42,62.55,5.86,65.28,barley,0.527,33257,0.63,30,"Very healthy, dense vegetation",Net Blotch
+24.92,66.79,5.75,109.22,barley,0.663,21282,0.42,31,Moderately healthy vegetation,Net Blotch
+23.32,73.45,5.85,94.3,barley,0.362,31811,0.35,12,Moderately healthy vegetation,Net Blotch
+24.84,68.36,6.47,74.05,barley,0.448,21229,0.42,50,Moderately healthy vegetation,Net Blotch
+22.28,58.84,6.97,63.87,barley,0.972,25171,0.6,29,"Very healthy, dense vegetation",Net Blotch
+18.88,65.77,6.08,94.76,barley,0.632,32543,0.43,38,Moderately healthy vegetation,Net Blotch
+25.19,60.2,5.92,72.12,barley,0.762,28445,0.39,40,Moderately healthy vegetation,Net Blotch
+18.25,55.28,6.2,63.72,barley,0.768,30571,0.33,27,Moderately healthy vegetation,Net Blotch
+24.61,70.42,6.6,104.16,barley,0.565,29609,0.47,39,Moderately healthy vegetation,Net Blotch
+25.14,65.26,6.02,76.68,barley,0.696,25141,0.56,37,Moderately healthy vegetation,Net Blotch
+23.09,60.12,6.03,65.5,barley,0.904,22799,0.49,53,Moderately healthy vegetation,Net Blotch
+18.05,62.89,6.29,84.24,barley,0.361,27530,0.61,28,"Very healthy, dense vegetation",Net Blotch
+24.93,73.8,6.55,79.74,barley,0.514,32857,0.54,30,Moderately healthy vegetation,Net Blotch
+18.15,71.09,5.57,88.08,barley,0.579,23557,0.42,52,Moderately healthy vegetation,Net Blotch
+18.28,66.66,6.83,80.98,barley,0.701,31321,0.4,40,Moderately healthy vegetation,Net Blotch
+18.83,58.75,5.72,79.75,barley,0.654,29756,0.69,48,"Very healthy, dense vegetation",Net Blotch
+25.72,67.22,5.55,74.51,barley,0.962,27814,0.38,57,Moderately healthy vegetation,Net Blotch
+25.34,68.5,6.59,96.46,barley,0.464,22019,0.38,52,Moderately healthy vegetation,Net Blotch
+23.89,57.49,5.89,102.83,barley,0.964,24737,0.52,37,Moderately healthy vegetation,Net Blotch
+21.54,71.51,5.92,102.49,barley,0.845,32986,0.57,12,Moderately healthy vegetation,Net Blotch
+23.09,63.1,5.59,70.43,barley,0.387,27450,0.66,29,"Very healthy, dense vegetation",Net Blotch
+25.62,63.47,6.58,108.83,barley,0.487,22277,0.35,52,Moderately healthy vegetation,Net Blotch
+21.45,63.16,6.18,65.89,barley,0.407,28027,0.42,51,Moderately healthy vegetation,Net Blotch
+18.52,55.53,6.64,90.99,barley,0.904,33554,0.36,56,Moderately healthy vegetation,Net Blotch
+22.54,67.99,6.49,64.41,barley,0.923,25642,0.49,56,Moderately healthy vegetation,Net Blotch
+23.02,61.89,5.68,63.04,barley,0.965,33468,0.34,43,Moderately healthy vegetation,Net Blotch
+24.89,65.61,6.63,87.93,barley,0.446,25339,0.4,47,Moderately healthy vegetation,Net Blotch
+25.77,74.09,6.52,107.49,barley,0.612,30565,0.61,56,"Very healthy, dense vegetation",Net Blotch
+19.4,62.36,5.7,60.95,barley,0.426,27720,0.47,45,Moderately healthy vegetation,Net Blotch
+21.54,59.64,6.8,109.75,barley,0.434,33066,0.38,27,Moderately healthy vegetation,Net Blotch
+23.8,74.83,6.25,91.76,barley,0.35,27183,0.34,48,Moderately healthy vegetation,Net Blotch
+18.98,74.53,6.09,94.26,barley,0.914,21475,0.47,39,Moderately healthy vegetation,Net Blotch
+24.11,73.13,6.23,71.08,barley,0.912,27705,0.62,57,"Very healthy, dense vegetation",Net Blotch
+24.79,70.05,5.72,76.73,barley,0.5,27605,0.42,24,Moderately healthy vegetation,Net Blotch
+21.63,60.28,6.43,69.22,barley,0.973,29661,0.7,47,"Very healthy, dense vegetation",Net Blotch
+25.38,57.21,5.98,101.7,barley,0.303,22542,0.37,22,Moderately healthy vegetation,Net Blotch
+22.22,72.85,6.8,106.62,barley,0.931,20082,0.4,21,Moderately healthy vegetation,Net Blotch
+20.58,69.0,6.5,66.29,barley,0.347,26113,0.68,28,"Very healthy, dense vegetation",Net Blotch
+24.88,68.74,6.27,91.26,barley,0.831,21852,0.54,39,Moderately healthy vegetation,Net Blotch
+20.04,56.36,6.73,109.02,barley,0.322,31482,0.6,40,"Very healthy, dense vegetation",Net Blotch
+25.95,61.89,6.33,99.58,barley,0.854,32417,0.43,24,Moderately healthy vegetation,Net Blotch
+19.29,65.47,6.81,71.32,barley,0.872,21948,0.31,46,Moderately healthy vegetation,Net Blotch
+20.58,65.35,6.67,78.35,barley,0.792,28177,0.35,10,Moderately healthy vegetation,Net Blotch
+24.71,56.73,6.65,88.45,barley,0.585,34347,0.67,35,"Very healthy, dense vegetation",Net Blotch
+20.27,63.91,6.44,62.5,barley,0.545,34441,0.6,44,"Very healthy, dense vegetation",Net Blotch
+18.42,64.24,6.47,76.41,barley,0.878,29244,0.3,29,Moderately healthy vegetation,Net Blotch
+23.39,61.74,5.87,107.32,barley,0.424,22910,0.58,23,Moderately healthy vegetation,Net Blotch
+19.85,61.25,5.73,100.77,barley,0.445,25162,0.58,41,Moderately healthy vegetation,Net Blotch
+21.87,61.91,5.85,107.27,barley,0.947,23432,0.66,56,"Very healthy, dense vegetation",Net Blotch
+22.81,56.51,5.79,101.6,barley,0.855,31982,0.51,54,Moderately healthy vegetation,Net Blotch
+19.08,69.02,6.74,80.73,barley,0.679,28629,0.44,14,Moderately healthy vegetation,Net Blotch
+22.03,65.36,6.27,83.73,barley,0.31,24199,0.31,19,Moderately healthy vegetation,Net Blotch
+23.81,59.25,5.72,89.96,barley,0.614,32657,0.44,36,Moderately healthy vegetation,Net Blotch
+18.53,69.03,5.77,88.1,barley,0.857,31530,0.34,41,Moderately healthy vegetation,Net Blotch
+23.5,61.32,5.58,64.78,barley,0.316,27022,0.58,35,Moderately healthy vegetation,Net Blotch
+26.55,72.89,5.79,73.34,barley,0.696,27981,0.31,29,Moderately healthy vegetation,Net Blotch
+19.3,69.63,5.78,83.21,barley,0.781,24493,0.63,10,"Very healthy, dense vegetation",Net Blotch
+20.69,59.44,6.86,103.65,barley,0.537,26654,0.48,40,Moderately healthy vegetation,Net Blotch
+19.33,68.03,6.19,84.23,barley,0.952,26811,0.48,60,Moderately healthy vegetation,Net Blotch
+24.61,73.59,6.64,96.59,barley,0.391,31232,0.34,43,Moderately healthy vegetation,Net Blotch
+22.27,59.52,5.83,67.97,barley,0.795,24828,0.55,34,Moderately healthy vegetation,Net Blotch
+25.7,61.33,6.96,83.21,barley,0.677,31156,0.41,22,Moderately healthy vegetation,Net Blotch
+19.2,68.31,6.11,87.85,barley,0.984,25419,0.47,57,Moderately healthy vegetation,Net Blotch
+21.7,60.47,6.71,95.71,barley,0.457,28506,0.41,22,Moderately healthy vegetation,Net Blotch
+20.52,59.21,5.56,67.61,barley,0.945,22421,0.58,17,Moderately healthy vegetation,Net Blotch
+23.3,73.63,5.87,97.59,barley,0.805,28110,0.67,17,"Very healthy, dense vegetation",Net Blotch
+24.25,55.65,7.0,64.24,barley,0.512,29849,0.36,10,Moderately healthy vegetation,Net Blotch
+24.86,65.74,5.71,75.82,barley,0.892,21578,0.48,60,Moderately healthy vegetation,Net Blotch
+22.63,65.77,6.78,88.17,barley,0.402,29556,0.32,32,Moderately healthy vegetation,Net Blotch
+18.04,60.61,5.51,104.23,barley,0.742,29202,0.6,16,"Very healthy, dense vegetation",Net Blotch
+23.26,72.33,5.8,67.1,barley,0.822,24615,0.43,24,Moderately healthy vegetation,Net Blotch
+22.88,71.6,6.35,67.73,barley,0.522,28338,0.63,35,"Very healthy, dense vegetation",Net Blotch
+25.97,69.36,6.82,103.22,barley,0.437,29111,0.58,10,Moderately healthy vegetation,Net Blotch
+26.14,66.21,6.66,107.24,barley,0.308,27541,0.63,35,"Very healthy, dense vegetation",Net Blotch
+18.66,61.55,6.12,75.03,barley,0.936,32197,0.59,40,Moderately healthy vegetation,Net Blotch
+25.11,55.98,5.79,78.16,barley,0.577,32582,0.57,44,Moderately healthy vegetation,Net Blotch
+23.34,59.25,6.47,105.01,barley,0.348,29195,0.33,48,Moderately healthy vegetation,Net Blotch
+25.08,65.92,6.46,62.49,barley,0.865,33971,0.45,25,Moderately healthy vegetation,Net Blotch
+25.37,72.52,6.61,107.91,barley,0.544,23354,0.69,52,"Very healthy, dense vegetation",Net Blotch
+25.34,63.32,6.33,74.52,barley,0.538,32091,0.65,57,"Very healthy, dense vegetation",Net Blotch
+25.01,67.82,6.53,62.91,barley,0.575,34309,0.42,40,Moderately healthy vegetation,Net Blotch
+18.67,71.52,5.72,69.93,barley,0.939,24311,0.5,45,Moderately healthy vegetation,Net Blotch
+20.38,63.74,6.64,108.51,barley,0.434,27497,0.37,52,Moderately healthy vegetation,Net Blotch
+18.09,72.61,6.38,78.96,barley,0.708,24641,0.69,43,"Very healthy, dense vegetation",Net Blotch
+26.17,71.96,6.25,79.85,barley,0.392,20832,0.69,59,"Very healthy, dense vegetation",Net Blotch
+18.65,61.38,6.66,93.62,barley,0.993,25610,0.65,17,"Very healthy, dense vegetation",Net Blotch
+26.07,59.37,6.2,85.76,barley,0.417,21380,0.45,22,Moderately healthy vegetation,Net Blotch
+18.93,72.8,6.16,82.34,barley,0.401,30888,0.43,59,Moderately healthy vegetation,Net Blotch
+23.31,63.25,6.39,108.76,barley,0.767,30954,0.59,50,Moderately healthy vegetation,Net Blotch
+18.75,62.5,6.42,70.23,barley,0.326,32367,0.58,48,Moderately healthy vegetation,Net Blotch
+19.74,59.66,6.38,65.51,barley,0.381,27283,0.6,26,"Very healthy, dense vegetation",Net Blotch
+25.73,70.75,6.88,98.74,barley,0.935,26206,0.41,33,Moderately healthy vegetation,Net Blotch
+17.02,16.99,7.49,88.55,wheat,0.837,21752,0.56,36,Moderately healthy vegetation,Yellow Rust
+19.02,17.13,6.92,79.93,wheat,0.704,32855,0.33,53,Moderately healthy vegetation,Yellow Rust
+17.89,15.41,6.0,68.55,wheat,0.707,31359,0.57,43,Moderately healthy vegetation,Yellow Rust
+18.87,15.66,6.39,88.51,wheat,0.675,32822,0.38,26,Moderately healthy vegetation,Yellow Rust
+18.37,19.56,7.15,79.26,wheat,0.702,27586,0.47,49,Moderately healthy vegetation,Yellow Rust
+20.45,15.4,5.99,92.68,wheat,0.993,22232,0.32,41,Moderately healthy vegetation,Septoria Leaf Blotch
+20.65,16.61,6.23,74.66,wheat,0.498,28824,0.53,18,Moderately healthy vegetation,Septoria Leaf Blotch
+17.33,18.75,7.55,82.62,wheat,0.438,24810,0.53,37,Moderately healthy vegetation,Yellow Rust
+18.18,18.9,7.01,81.85,wheat,0.355,21157,0.58,60,Moderately healthy vegetation,Yellow Rust
+18.01,18.31,8.75,81.99,wheat,0.418,29577,0.38,51,Moderately healthy vegetation,Yellow Rust
+20.99,19.33,8.72,93.55,wheat,0.639,28298,0.37,26,Moderately healthy vegetation,Septoria Leaf Blotch
+19.46,15.23,7.98,74.59,wheat,0.335,29893,0.53,14,Moderately healthy vegetation,Yellow Rust
+19.81,14.7,6.52,78.97,wheat,0.705,27232,0.6,17,"Very healthy, dense vegetation",No Risk
+18.97,19.52,8.49,80.71,wheat,0.842,30714,0.6,21,"Very healthy, dense vegetation",Yellow Rust
+18.2,14.71,6.58,70.18,wheat,0.514,27522,0.48,49,Moderately healthy vegetation,No Risk
+18.73,19.18,6.48,71.58,wheat,0.398,21865,0.53,16,Moderately healthy vegetation,Yellow Rust
+21.0,19.86,7.97,73.51,wheat,0.997,21572,0.68,27,"Very healthy, dense vegetation",Septoria Leaf Blotch
+20.28,16.4,8.14,82.52,wheat,0.549,31852,0.63,22,"Very healthy, dense vegetation",Septoria Leaf Blotch
+17.48,15.76,7.23,66.97,wheat,0.569,28159,0.42,35,Moderately healthy vegetation,Yellow Rust
+20.89,14.32,6.49,90.46,wheat,0.925,34084,0.7,13,"Very healthy, dense vegetation",No Risk
+17.08,16.15,7.53,71.31,wheat,0.693,31319,0.46,30,Moderately healthy vegetation,Yellow Rust
+20.09,15.11,7.7,85.75,wheat,0.332,21512,0.66,30,"Very healthy, dense vegetation",Septoria Leaf Blotch
+17.57,15.0,8.52,89.31,wheat,0.475,29602,0.69,30,"Very healthy, dense vegetation",Yellow Rust
+19.12,18.43,6.62,85.53,wheat,0.683,21746,0.66,52,"Very healthy, dense vegetation",Yellow Rust
+18.58,19.22,8.1,72.95,wheat,0.983,23594,0.4,10,Moderately healthy vegetation,Yellow Rust
+17.17,14.42,6.2,72.33,wheat,0.506,28689,0.69,27,"Very healthy, dense vegetation",No Risk
+18.29,16.68,6.05,74.87,wheat,0.931,27219,0.42,30,Moderately healthy vegetation,Yellow Rust
+19.03,18.67,7.69,94.71,wheat,0.48,32882,0.45,33,Moderately healthy vegetation,Yellow Rust
+17.14,17.07,7.83,83.75,wheat,0.607,27608,0.38,34,Moderately healthy vegetation,Yellow Rust
+17.48,17.93,6.76,78.92,wheat,0.688,25448,0.55,39,Moderately healthy vegetation,Yellow Rust
+20.57,14.26,6.65,83.76,wheat,0.801,20302,0.37,40,Moderately healthy vegetation,No Risk
+17.22,15.82,6.13,76.58,wheat,0.327,29963,0.36,34,Moderately healthy vegetation,Yellow Rust
+19.69,19.44,8.83,91.76,wheat,0.45,32280,0.47,58,Moderately healthy vegetation,Yellow Rust
+17.85,19.09,8.62,76.32,wheat,0.425,22393,0.58,48,Moderately healthy vegetation,Yellow Rust
+18.82,16.11,8.2,89.73,wheat,0.518,25733,0.41,11,Moderately healthy vegetation,Yellow Rust
+17.48,16.54,6.18,93.35,wheat,0.927,25782,0.38,60,Moderately healthy vegetation,Yellow Rust
+18.73,17.58,7.98,81.2,wheat,0.753,26311,0.42,55,Moderately healthy vegetation,Yellow Rust
+18.66,16.18,7.86,81.71,wheat,0.468,34159,0.31,21,Moderately healthy vegetation,Yellow Rust
+18.24,19.69,6.97,83.75,wheat,0.89,22921,0.32,16,Moderately healthy vegetation,Yellow Rust
+18.81,15.22,6.21,77.54,wheat,0.837,21334,0.55,26,Moderately healthy vegetation,Yellow Rust
+18.65,17.81,8.87,77.93,wheat,0.486,33712,0.46,17,Moderately healthy vegetation,Yellow Rust
+20.37,16.9,8.77,82.25,wheat,0.526,27904,0.61,59,"Very healthy, dense vegetation",Septoria Leaf Blotch
+18.38,16.64,8.74,70.52,wheat,0.545,24548,0.66,30,"Very healthy, dense vegetation",Yellow Rust
+17.17,17.3,8.08,72.79,wheat,0.433,24116,0.68,34,"Very healthy, dense vegetation",Yellow Rust
+19.37,15.77,6.14,85.25,wheat,0.74,28402,0.54,12,Moderately healthy vegetation,Yellow Rust
+17.93,14.27,7.5,85.37,wheat,0.562,22528,0.32,37,Moderately healthy vegetation,No Risk
+19.45,18.23,8.38,75.63,wheat,0.948,29468,0.33,34,Moderately healthy vegetation,Yellow Rust
+19.13,14.92,6.29,89.62,wheat,0.958,22279,0.58,13,Moderately healthy vegetation,No Risk
+19.1,17.26,6.59,75.49,wheat,0.942,29629,0.48,37,Moderately healthy vegetation,Yellow Rust
+17.49,16.96,6.9,86.05,wheat,0.998,27253,0.4,28,Moderately healthy vegetation,Yellow Rust
+19.41,18.98,7.81,80.25,wheat,0.816,27942,0.46,10,Moderately healthy vegetation,Yellow Rust
+20.19,19.64,7.15,78.26,wheat,0.796,23900,0.5,12,Moderately healthy vegetation,Septoria Leaf Blotch
+17.3,15.15,6.65,75.58,wheat,0.631,29789,0.64,15,"Very healthy, dense vegetation",Yellow Rust
+17.5,15.48,7.78,72.94,wheat,0.31,30792,0.46,29,Moderately healthy vegetation,Yellow Rust
+18.17,14.7,6.36,90.78,wheat,0.351,27774,0.64,35,"Very healthy, dense vegetation",No Risk
+17.57,16.72,8.26,77.82,wheat,0.579,27192,0.49,47,Moderately healthy vegetation,Yellow Rust
+20.93,18.91,6.46,78.07,wheat,0.779,26861,0.43,48,Moderately healthy vegetation,Septoria Leaf Blotch
+19.71,17.64,6.61,85.58,wheat,0.651,32103,0.58,30,Moderately healthy vegetation,Yellow Rust
+19.08,17.87,8.17,69.41,wheat,0.347,20392,0.63,18,"Very healthy, dense vegetation",Yellow Rust
+18.55,16.03,7.65,76.33,wheat,0.873,22223,0.39,45,Moderately healthy vegetation,Yellow Rust
+18.2,17.41,6.55,80.64,wheat,0.473,30408,0.63,60,"Very healthy, dense vegetation",Yellow Rust
+18.89,14.99,7.1,80.11,wheat,0.322,34865,0.31,33,Moderately healthy vegetation,No Risk
+18.49,14.72,7.36,91.95,wheat,0.677,24973,0.32,44,Moderately healthy vegetation,No Risk
+19.49,17.17,6.47,87.51,wheat,0.885,30721,0.62,14,"Very healthy, dense vegetation",Yellow Rust
+17.26,18.75,7.84,94.0,wheat,0.708,25483,0.33,13,Moderately healthy vegetation,Yellow Rust
+19.62,18.71,7.06,88.46,wheat,0.713,26471,0.63,11,"Very healthy, dense vegetation",Yellow Rust
+20.68,19.85,7.6,84.78,wheat,0.671,34827,0.42,50,Moderately healthy vegetation,Septoria Leaf Blotch
+20.02,16.63,6.72,68.98,wheat,0.761,21946,0.41,57,Moderately healthy vegetation,Septoria Leaf Blotch
+20.12,14.44,6.82,88.68,wheat,0.988,24992,0.44,51,Moderately healthy vegetation,No Risk
+20.66,15.85,7.99,65.24,wheat,0.795,22021,0.39,50,Moderately healthy vegetation,Septoria Leaf Blotch
+19.26,14.28,7.55,65.78,wheat,0.864,27962,0.47,52,Moderately healthy vegetation,No Risk
+17.93,15.86,7.73,74.64,wheat,0.504,20079,0.41,46,Moderately healthy vegetation,Yellow Rust
+19.16,15.84,7.35,82.7,wheat,0.448,33071,0.61,42,"Very healthy, dense vegetation",Yellow Rust
+20.27,19.97,7.31,69.64,wheat,0.734,31433,0.33,23,Moderately healthy vegetation,Septoria Leaf Blotch
+17.09,18.25,7.79,87.27,wheat,0.687,22662,0.67,28,"Very healthy, dense vegetation",Yellow Rust
+17.07,17.54,6.31,70.87,wheat,0.739,23953,0.51,16,Moderately healthy vegetation,Yellow Rust
+20.63,14.44,6.4,92.07,wheat,0.425,26916,0.3,45,Moderately healthy vegetation,No Risk
+20.82,17.85,7.6,79.21,wheat,0.432,34341,0.67,36,"Very healthy, dense vegetation",Septoria Leaf Blotch
+19.46,18.73,7.22,68.81,wheat,0.454,27652,0.48,26,Moderately healthy vegetation,Yellow Rust
+17.18,16.43,7.56,72.85,wheat,0.689,27104,0.68,35,"Very healthy, dense vegetation",Yellow Rust
+17.49,16.39,7.49,79.46,wheat,0.988,29526,0.45,59,Moderately healthy vegetation,Yellow Rust
+17.48,14.76,6.61,65.11,wheat,0.729,32901,0.64,60,"Very healthy, dense vegetation",No Risk
+19.48,17.45,7.48,80.5,wheat,0.922,22778,0.56,46,Moderately healthy vegetation,Yellow Rust
+19.71,18.1,7.33,73.64,wheat,0.856,28053,0.56,23,Moderately healthy vegetation,Yellow Rust
+19.49,16.06,6.49,81.53,wheat,0.814,31237,0.54,51,Moderately healthy vegetation,Yellow Rust
+19.95,14.83,7.79,88.68,wheat,0.584,23744,0.33,39,Moderately healthy vegetation,No Risk
+19.42,16.8,6.41,68.5,wheat,0.899,28854,0.63,13,"Very healthy, dense vegetation",Yellow Rust
+19.46,18.02,8.42,78.45,wheat,0.349,22036,0.41,33,Moderately healthy vegetation,Yellow Rust
+20.19,16.42,8.72,77.34,wheat,0.692,25289,0.34,12,Moderately healthy vegetation,Septoria Leaf Blotch
+18.84,14.74,7.81,94.78,wheat,0.731,20758,0.65,59,"Very healthy, dense vegetation",No Risk
+20.71,19.84,6.32,94.04,wheat,0.996,21791,0.38,47,Moderately healthy vegetation,Septoria Leaf Blotch
+18.99,15.94,7.11,78.7,wheat,0.363,28875,0.48,58,Moderately healthy vegetation,Yellow Rust
+19.97,15.57,8.14,69.16,wheat,0.777,26992,0.61,38,"Very healthy, dense vegetation",Yellow Rust
+17.82,17.61,7.71,90.82,wheat,0.795,23289,0.65,41,"Very healthy, dense vegetation",Yellow Rust
+20.71,15.28,7.1,76.78,wheat,0.333,24157,0.55,33,Moderately healthy vegetation,Septoria Leaf Blotch
+17.34,18.76,8.86,67.95,wheat,0.847,21175,0.4,21,Moderately healthy vegetation,Yellow Rust
+17.44,14.34,7.86,73.09,wheat,0.807,29922,0.3,17,Moderately healthy vegetation,No Risk
+18.9,19.76,7.45,69.1,wheat,0.824,21694,0.69,51,"Very healthy, dense vegetation",Yellow Rust
+18.59,14.78,7.17,89.61,wheat,0.481,25233,0.41,55,Moderately healthy vegetation,No Risk
+18.32,15.36,7.26,81.79,wheat,0.445,32789,0.55,28,Moderately healthy vegetation,Yellow Rust
+17.14,20.6,5.69,128.26,potato,0.973,28987,0.46,58,Moderately healthy vegetation,Late Blight
+19.63,18.91,5.76,106.36,potato,0.979,22755,0.67,53,"Very healthy, dense vegetation",Late Blight
+22.91,21.34,5.87,109.23,potato,0.457,29962,0.36,15,Moderately healthy vegetation,Late Blight
+16.43,24.24,5.93,140.37,potato,0.829,27776,0.41,33,Moderately healthy vegetation,Late Blight
+22.14,23.02,5.96,76.64,potato,0.457,29204,0.6,37,"Very healthy, dense vegetation",Late Blight
+17.85,18.78,5.95,143.1,potato,0.642,29837,0.4,53,Moderately healthy vegetation,Late Blight
+19.88,20.32,5.79,60.92,potato,0.611,26438,0.34,16,Moderately healthy vegetation,Late Blight
+19.33,23.33,5.58,104.78,potato,0.776,30509,0.38,36,Moderately healthy vegetation,Late Blight
+18.42,23.43,5.69,132.98,potato,0.688,26888,0.7,58,"Very healthy, dense vegetation",Late Blight
+21.81,23.21,5.79,130.06,potato,0.997,26384,0.34,10,Moderately healthy vegetation,Late Blight
+19.73,18.28,5.75,143.76,potato,0.317,31429,0.67,28,"Very healthy, dense vegetation",Late Blight
+17.15,19.87,5.57,88.0,potato,0.339,31625,0.48,47,Moderately healthy vegetation,Late Blight
+19.62,18.67,5.81,144.16,potato,0.319,21280,0.46,53,Moderately healthy vegetation,Late Blight
+21.63,21.18,5.89,134.36,potato,0.718,32548,0.31,17,Moderately healthy vegetation,Late Blight
+16.07,18.72,6.0,88.07,potato,0.416,25008,0.57,27,Moderately healthy vegetation,Late Blight
+20.61,24.36,5.79,69.64,potato,0.556,32836,0.51,30,Moderately healthy vegetation,Late Blight
+21.42,20.4,5.91,116.52,potato,0.546,25147,0.54,54,Moderately healthy vegetation,Late Blight
+19.07,21.21,5.79,86.22,potato,0.341,26352,0.43,35,Moderately healthy vegetation,Late Blight
+21.19,19.63,5.73,137.19,potato,0.543,34819,0.32,31,Moderately healthy vegetation,Late Blight
+23.04,22.43,5.83,108.37,potato,0.775,34719,0.69,26,"Very healthy, dense vegetation",Late Blight
+20.65,23.11,5.97,67.72,potato,0.78,31510,0.49,57,Moderately healthy vegetation,Late Blight
+18.1,18.29,5.63,144.79,potato,0.48,26608,0.66,28,"Very healthy, dense vegetation",Late Blight
+18.24,21.08,5.52,69.45,potato,0.876,26201,0.65,15,"Very healthy, dense vegetation",Late Blight
+17.48,18.83,5.95,121.94,potato,0.535,32024,0.54,13,Moderately healthy vegetation,Late Blight
+19.92,21.47,5.75,82.69,potato,0.417,20409,0.53,24,Moderately healthy vegetation,Late Blight
+20.28,23.24,5.88,139.75,potato,0.552,25655,0.42,30,Moderately healthy vegetation,Late Blight
+15.77,19.23,5.98,108.34,potato,0.49,29036,0.45,40,Moderately healthy vegetation,Late Blight
+16.71,19.18,5.64,96.77,potato,0.523,29675,0.42,18,Moderately healthy vegetation,Late Blight
+17.66,18.15,5.64,100.67,potato,0.731,23048,0.44,20,Moderately healthy vegetation,Late Blight
+18.51,23.62,5.68,87.05,potato,0.465,31392,0.49,45,Moderately healthy vegetation,Late Blight
+24.51,20.82,5.67,64.19,potato,0.609,29348,0.55,39,Moderately healthy vegetation,Late Blight
+18.88,24.54,5.72,105.41,potato,0.827,31789,0.61,34,"Very healthy, dense vegetation",Late Blight
+21.59,20.32,5.81,61.14,potato,0.733,21801,0.69,30,"Very healthy, dense vegetation",Late Blight
+20.12,24.45,5.78,106.16,potato,0.391,20214,0.5,16,Moderately healthy vegetation,Late Blight
+15.44,18.37,5.61,139.03,potato,0.692,21234,0.63,51,"Very healthy, dense vegetation",Late Blight
+22.64,21.59,5.95,122.39,potato,0.482,27227,0.35,50,Moderately healthy vegetation,Late Blight
+21.99,24.87,5.85,129.57,potato,0.922,29774,0.47,39,Moderately healthy vegetation,Late Blight
+20.53,18.09,5.82,120.45,potato,0.976,32518,0.43,58,Moderately healthy vegetation,Late Blight
+15.79,21.15,5.5,95.17,potato,0.37,23900,0.47,17,Moderately healthy vegetation,Late Blight
+19.64,19.69,5.82,96.66,potato,0.854,27468,0.7,54,"Very healthy, dense vegetation",Late Blight
+20.57,19.75,5.71,87.88,potato,0.696,22646,0.63,12,"Very healthy, dense vegetation",Late Blight
+20.16,24.84,5.51,138.24,potato,0.661,31555,0.31,24,Moderately healthy vegetation,Late Blight
+21.54,24.25,6.0,120.69,potato,0.512,21937,0.38,38,Moderately healthy vegetation,Late Blight
+15.54,23.76,5.7,107.39,potato,0.656,24888,0.64,46,"Very healthy, dense vegetation",Late Blight
+19.92,20.7,5.83,108.64,potato,0.617,21324,0.63,22,"Very healthy, dense vegetation",Late Blight
+20.77,18.93,5.57,109.02,potato,0.394,26904,0.61,47,"Very healthy, dense vegetation",Late Blight
+23.46,23.22,5.65,95.84,potato,0.422,32248,0.33,22,Moderately healthy vegetation,Late Blight
+24.32,21.03,5.82,60.28,potato,0.78,32133,0.63,48,"Very healthy, dense vegetation",Late Blight
+20.13,24.97,5.66,100.05,potato,0.863,25789,0.38,40,Moderately healthy vegetation,Late Blight
+21.81,18.57,5.95,125.1,potato,0.402,29021,0.38,18,Moderately healthy vegetation,Late Blight
+19.52,24.93,5.95,113.33,potato,0.867,33090,0.35,17,Moderately healthy vegetation,Late Blight
+17.0,19.91,5.52,103.29,potato,0.417,33246,0.38,22,Moderately healthy vegetation,Late Blight
+16.79,24.97,5.58,75.45,potato,0.336,32082,0.66,47,"Very healthy, dense vegetation",Late Blight
+24.85,22.89,5.61,62.21,potato,0.536,27061,0.65,46,"Very healthy, dense vegetation",Late Blight
+16.52,20.46,5.61,98.78,potato,0.886,28399,0.56,19,Moderately healthy vegetation,Late Blight
+18.15,19.39,5.51,107.69,potato,0.769,31416,0.5,31,Moderately healthy vegetation,Late Blight
+23.19,22.31,5.9,63.38,potato,0.97,28906,0.41,23,Moderately healthy vegetation,Late Blight
+23.38,21.99,5.74,87.67,potato,0.439,26102,0.46,15,Moderately healthy vegetation,Late Blight
+18.36,19.38,5.72,138.41,potato,0.589,23939,0.37,39,Moderately healthy vegetation,Late Blight
+19.26,20.51,5.54,94.95,potato,0.7,29783,0.63,22,"Very healthy, dense vegetation",Late Blight
+22.95,24.04,5.86,107.73,potato,0.85,26503,0.34,49,Moderately healthy vegetation,Late Blight
+20.12,22.9,5.62,104.63,potato,0.756,28691,0.51,20,Moderately healthy vegetation,Late Blight
+21.14,22.72,5.61,141.61,potato,0.925,25856,0.39,33,Moderately healthy vegetation,Late Blight
+24.92,18.23,5.58,62.71,potato,0.585,34805,0.53,25,Moderately healthy vegetation,Late Blight
+15.33,24.92,5.57,135.33,potato,0.87,26007,0.51,58,Moderately healthy vegetation,Late Blight
+18.81,21.28,5.89,125.08,potato,0.701,31202,0.33,24,Moderately healthy vegetation,Late Blight
+23.44,22.77,5.93,107.41,potato,0.575,31123,0.62,58,"Very healthy, dense vegetation",Late Blight
+22.84,18.97,5.68,63.59,potato,0.395,21031,0.69,23,"Very healthy, dense vegetation",Late Blight
+24.9,22.28,5.71,146.47,potato,0.303,30081,0.47,52,Moderately healthy vegetation,Late Blight
+23.79,24.36,5.95,119.64,potato,0.995,22490,0.61,17,"Very healthy, dense vegetation",Late Blight
+22.06,19.6,5.77,126.73,potato,0.321,20011,0.4,14,Moderately healthy vegetation,Late Blight
+18.87,20.18,5.97,134.18,potato,0.405,25820,0.66,38,"Very healthy, dense vegetation",Late Blight
+18.62,23.02,5.53,135.34,potato,0.667,20780,0.3,28,Moderately healthy vegetation,Late Blight
+23.01,18.87,5.67,100.12,potato,0.457,28634,0.61,23,"Very healthy, dense vegetation",Late Blight
+19.33,24.14,5.66,68.51,potato,0.982,24907,0.5,20,Moderately healthy vegetation,Late Blight
+16.24,21.36,5.59,66.97,potato,0.807,34473,0.42,25,Moderately healthy vegetation,Late Blight
+17.92,24.91,5.93,69.15,potato,0.676,22116,0.53,37,Moderately healthy vegetation,Late Blight
+15.47,21.44,5.82,88.89,potato,0.85,23132,0.42,31,Moderately healthy vegetation,Late Blight
+17.06,23.77,5.86,81.83,potato,0.676,24301,0.33,46,Moderately healthy vegetation,Late Blight
+21.33,18.49,5.87,109.1,potato,0.326,24805,0.45,31,Moderately healthy vegetation,Late Blight
+23.91,20.75,5.71,81.6,potato,0.815,28403,0.66,13,"Very healthy, dense vegetation",Late Blight
+23.9,22.74,5.94,112.66,potato,0.654,34016,0.41,57,Moderately healthy vegetation,Late Blight
+22.99,20.58,5.92,143.86,potato,0.543,33214,0.32,52,Moderately healthy vegetation,Late Blight
+21.35,22.91,5.78,146.45,potato,0.429,33308,0.63,47,"Very healthy, dense vegetation",Late Blight
+24.16,19.28,5.83,116.73,potato,0.898,27714,0.63,34,"Very healthy, dense vegetation",Late Blight
+24.63,18.18,5.51,149.74,potato,0.947,20553,0.32,33,Moderately healthy vegetation,Late Blight
+21.02,24.94,5.66,124.61,potato,0.914,25784,0.7,34,"Very healthy, dense vegetation",Late Blight
+17.31,20.02,5.86,115.2,potato,0.387,25042,0.34,46,Moderately healthy vegetation,Late Blight
+23.83,24.75,5.62,84.64,potato,0.734,30683,0.51,22,Moderately healthy vegetation,Late Blight
+19.31,23.96,5.59,129.34,potato,0.946,32674,0.54,60,Moderately healthy vegetation,Late Blight
+16.04,22.33,5.98,130.39,potato,0.37,29129,0.47,57,Moderately healthy vegetation,Late Blight
+19.19,20.83,5.67,80.15,potato,0.805,24017,0.66,42,"Very healthy, dense vegetation",Late Blight
+19.93,21.8,5.96,64.03,potato,0.997,26665,0.37,10,Moderately healthy vegetation,Late Blight
+19.56,24.67,5.69,139.29,potato,0.593,32895,0.34,18,Moderately healthy vegetation,Late Blight
+18.31,24.33,5.7,76.14,potato,0.867,24647,0.45,18,Moderately healthy vegetation,Late Blight
+20.11,23.22,5.6,73.36,potato,0.779,34284,0.32,49,Moderately healthy vegetation,Late Blight
+23.61,21.91,5.53,100.6,potato,0.698,28112,0.69,37,"Very healthy, dense vegetation",Late Blight
+19.73,24.89,5.82,84.06,potato,0.396,22409,0.59,55,Moderately healthy vegetation,Late Blight
+20.93,21.19,5.56,133.19,potato,0.731,23353,0.52,35,Moderately healthy vegetation,Late Blight
+18.78,20.25,5.63,104.26,potato,0.897,32143,0.53,50,Moderately healthy vegetation,Late Blight
+36.51,57.93,6.03,122.65,wheat,0.314,28105,0.39,18,Moderately healthy vegetation,No Risk
+36.89,62.73,5.27,163.73,wheat,0.775,23637,0.31,51,Moderately healthy vegetation,No Risk
+29.24,59.39,5.99,103.33,wheat,0.854,32193,0.45,59,Moderately healthy vegetation,No Risk
+27.34,43.36,6.09,142.33,wheat,0.946,20269,0.45,11,Moderately healthy vegetation,No Risk
+21.06,55.47,5.62,184.62,wheat,0.515,29765,0.48,32,Moderately healthy vegetation,Septoria Leaf Blotch
+30.33,42.35,6.45,149.3,wheat,0.653,24408,0.66,37,"Very healthy, dense vegetation",No Risk
+31.8,45.03,5.62,147.04,wheat,0.927,32317,0.62,16,"Very healthy, dense vegetation",No Risk
+33.18,38.23,5.86,198.83,wheat,0.374,27113,0.66,20,"Very healthy, dense vegetation",No Risk
+29.39,63.48,5.76,90.05,wheat,0.423,33447,0.46,25,Moderately healthy vegetation,No Risk
+30.27,67.39,4.7,127.78,wheat,0.75,24769,0.31,10,Moderately healthy vegetation,No Risk
+35.46,68.76,5.27,108.63,wheat,0.569,27314,0.62,59,"Very healthy, dense vegetation",No Risk
+33.8,40.03,7.45,176.62,wheat,0.855,31485,0.33,13,Moderately healthy vegetation,No Risk
+28.69,49.47,5.83,96.36,wheat,0.393,23308,0.35,21,Moderately healthy vegetation,No Risk
+31.24,56.67,7.34,122.01,wheat,0.855,26619,0.49,49,Moderately healthy vegetation,No Risk
+28.98,57.23,6.35,120.74,wheat,0.599,26602,0.41,16,Moderately healthy vegetation,No Risk
+27.32,34.14,4.7,96.52,wheat,0.97,34490,0.68,25,"Very healthy, dense vegetation",No Risk
+21.48,38.8,4.96,180.38,wheat,0.915,29138,0.35,25,Moderately healthy vegetation,Septoria Leaf Blotch
+18.32,34.7,4.96,107.47,wheat,0.303,25257,0.46,42,Moderately healthy vegetation,Yellow Rust
+36.98,37.74,5.64,161.48,wheat,0.798,26412,0.55,36,Moderately healthy vegetation,No Risk
+24.8,40.12,5.61,121.56,wheat,0.355,27442,0.59,20,Moderately healthy vegetation,Septoria Leaf Blotch
+19.35,55.97,4.68,194.59,wheat,0.796,28700,0.43,19,Moderately healthy vegetation,Yellow Rust
+28.88,50.12,5.71,179.22,wheat,0.898,30076,0.49,36,Moderately healthy vegetation,No Risk
+19.54,47.19,6.41,192.44,wheat,0.92,27702,0.53,25,Moderately healthy vegetation,Yellow Rust
+24.77,50.55,6.01,114.28,wheat,0.742,32998,0.6,54,"Very healthy, dense vegetation",Septoria Leaf Blotch
+18.33,38.41,4.95,139.65,wheat,0.491,24690,0.64,32,"Very healthy, dense vegetation",Yellow Rust
+19.15,45.37,5.52,132.77,wheat,0.925,31406,0.43,40,Moderately healthy vegetation,Yellow Rust
+28.23,49.44,5.9,186.5,wheat,0.653,20977,0.63,13,"Very healthy, dense vegetation",No Risk
+30.12,34.13,5.72,157.09,wheat,0.358,25454,0.57,55,Moderately healthy vegetation,No Risk
+33.41,35.43,4.55,139.67,wheat,0.819,26268,0.45,50,Moderately healthy vegetation,No Risk
+24.19,46.69,6.67,177.34,wheat,0.435,34923,0.7,44,"Very healthy, dense vegetation",Septoria Leaf Blotch
+26.89,41.7,4.75,94.47,wheat,0.747,29637,0.59,23,Moderately healthy vegetation,Septoria Leaf Blotch
+31.33,57.97,4.95,161.78,wheat,0.975,32622,0.48,28,Moderately healthy vegetation,No Risk
+33.31,67.08,5.27,108.51,wheat,0.735,26873,0.6,18,"Very healthy, dense vegetation",No Risk
+23.45,46.49,7.11,150.87,wheat,0.692,34412,0.4,57,Moderately healthy vegetation,Septoria Leaf Blotch
+34.54,39.04,5.62,168.59,wheat,0.652,20112,0.32,58,Moderately healthy vegetation,No Risk
+19.5,34.51,5.63,197.38,wheat,0.321,23873,0.43,60,Moderately healthy vegetation,Yellow Rust
+28.77,37.58,4.67,91.72,wheat,0.867,21518,0.46,37,Moderately healthy vegetation,No Risk
+30.98,32.25,7.16,180.72,wheat,0.985,29098,0.41,55,Moderately healthy vegetation,No Risk
+18.4,36.83,6.62,93.12,wheat,0.33,31782,0.34,51,Moderately healthy vegetation,Yellow Rust
+35.09,30.99,5.0,116.91,wheat,0.571,21561,0.43,40,Moderately healthy vegetation,No Risk
+34.93,30.4,6.35,159.26,wheat,0.438,33764,0.54,40,Moderately healthy vegetation,No Risk
+29.51,35.72,6.22,187.9,wheat,0.485,31376,0.69,28,"Very healthy, dense vegetation",No Risk
+34.52,47.53,5.92,129.01,wheat,0.689,33627,0.65,18,"Very healthy, dense vegetation",No Risk
+28.43,52.1,6.01,147.04,wheat,0.899,21176,0.44,26,Moderately healthy vegetation,No Risk
+18.42,34.81,4.68,163.27,wheat,0.989,31201,0.37,35,Moderately healthy vegetation,Yellow Rust
+31.08,47.2,7.08,91.31,wheat,0.941,24874,0.35,10,Moderately healthy vegetation,No Risk
+20.89,46.25,6.21,195.57,wheat,0.633,28343,0.64,52,"Very healthy, dense vegetation",Septoria Leaf Blotch
+30.91,52.8,7.05,170.99,wheat,0.627,30721,0.55,23,Moderately healthy vegetation,No Risk
+27.93,66.45,4.72,145.37,wheat,0.919,29171,0.64,24,"Very healthy, dense vegetation",No Risk
+35.95,36.53,6.42,136.05,wheat,0.96,27012,0.4,41,Moderately healthy vegetation,No Risk
+19.54,56.93,4.8,173.17,wheat,0.586,22338,0.32,23,Moderately healthy vegetation,Yellow Rust
+19.64,32.32,4.61,176.41,wheat,0.906,26209,0.66,10,"Very healthy, dense vegetation",Yellow Rust
+31.22,56.47,5.61,129.2,wheat,0.345,27093,0.68,60,"Very healthy, dense vegetation",No Risk
+33.51,45.71,7.32,126.67,wheat,0.96,29023,0.59,53,Moderately healthy vegetation,No Risk
+24.81,45.01,5.02,188.49,wheat,0.616,22205,0.4,34,Moderately healthy vegetation,Septoria Leaf Blotch
+36.21,31.95,5.62,191.07,wheat,0.823,34376,0.57,53,Moderately healthy vegetation,No Risk
+30.5,35.49,5.39,162.59,wheat,0.613,20418,0.59,42,Moderately healthy vegetation,No Risk
+26.02,49.95,5.91,160.33,wheat,0.387,28241,0.41,35,Moderately healthy vegetation,Septoria Leaf Blotch
+31.48,35.64,6.57,100.55,wheat,0.419,27609,0.41,29,Moderately healthy vegetation,No Risk
+33.15,32.46,4.81,105.04,wheat,0.685,32151,0.35,28,Moderately healthy vegetation,No Risk
+23.5,51.29,4.76,192.3,wheat,0.301,31974,0.39,55,Moderately healthy vegetation,Septoria Leaf Blotch
+34.87,38.84,5.18,148.25,wheat,0.478,31836,0.64,26,"Very healthy, dense vegetation",No Risk
+28.09,44.93,4.9,197.11,wheat,0.646,30794,0.57,38,Moderately healthy vegetation,No Risk
+24.55,57.34,6.44,118.36,wheat,0.616,20353,0.38,28,Moderately healthy vegetation,Septoria Leaf Blotch
+33.65,48.41,7.07,100.47,wheat,0.807,28188,0.65,43,"Very healthy, dense vegetation",No Risk
+20.56,60.55,6.66,191.09,wheat,0.397,20904,0.56,34,Moderately healthy vegetation,Septoria Leaf Blotch
+19.96,59.33,5.98,195.79,wheat,0.416,32321,0.52,41,Moderately healthy vegetation,Yellow Rust
+28.88,62.49,5.46,182.27,wheat,0.524,25183,0.64,49,"Very healthy, dense vegetation",No Risk
+36.04,43.61,4.76,159.89,wheat,0.64,28855,0.37,23,Moderately healthy vegetation,No Risk
+23.67,47.29,7.34,141.13,wheat,0.498,31986,0.53,49,Moderately healthy vegetation,Septoria Leaf Blotch
+25.75,40.72,4.82,100.78,wheat,0.68,21160,0.69,23,"Very healthy, dense vegetation",Septoria Leaf Blotch
+31.09,66.69,6.24,175.93,wheat,0.392,21864,0.58,43,Moderately healthy vegetation,No Risk
+18.73,61.33,5.0,139.87,wheat,0.454,26348,0.7,15,"Very healthy, dense vegetation",Yellow Rust
+29.5,63.47,5.56,189.52,wheat,0.91,31406,0.48,53,Moderately healthy vegetation,No Risk
+20.44,39.37,4.75,137.23,wheat,0.619,27838,0.62,32,"Very healthy, dense vegetation",Septoria Leaf Blotch
+36.0,56.01,7.31,134.86,wheat,0.363,25822,0.68,60,"Very healthy, dense vegetation",No Risk
+31.47,35.39,5.66,174.57,wheat,0.977,30737,0.7,15,"Very healthy, dense vegetation",No Risk
+36.3,56.03,4.67,101.61,wheat,0.675,21622,0.37,51,Moderately healthy vegetation,No Risk
+29.49,67.11,6.47,153.25,wheat,0.691,20154,0.46,26,Moderately healthy vegetation,No Risk
+30.58,34.76,5.38,177.58,wheat,0.627,21361,0.68,34,"Very healthy, dense vegetation",No Risk
+24.69,59.97,5.86,91.96,wheat,0.661,23835,0.67,49,"Very healthy, dense vegetation",Septoria Leaf Blotch
+23.17,36.68,6.96,162.59,wheat,0.626,25674,0.38,13,Moderately healthy vegetation,Septoria Leaf Blotch
+19.04,33.11,6.12,155.37,wheat,0.689,25706,0.56,21,Moderately healthy vegetation,Yellow Rust
+29.32,45.93,6.42,165.41,wheat,0.803,29326,0.37,59,Moderately healthy vegetation,No Risk
+34.65,54.32,4.83,180.9,wheat,0.817,26308,0.53,51,Moderately healthy vegetation,No Risk
+22.0,56.31,6.99,136.83,wheat,0.392,20457,0.33,29,Moderately healthy vegetation,Septoria Leaf Blotch
+23.0,60.24,4.6,159.69,wheat,0.305,31207,0.63,38,"Very healthy, dense vegetation",Septoria Leaf Blotch
+30.56,35.29,6.98,178.9,wheat,0.964,20942,0.49,44,Moderately healthy vegetation,No Risk
+31.46,48.18,7.06,165.41,wheat,0.995,31900,0.56,60,Moderately healthy vegetation,No Risk
+25.95,40.58,5.17,109.18,wheat,0.632,33642,0.31,33,Moderately healthy vegetation,Septoria Leaf Blotch
+21.01,69.69,5.11,185.2,wheat,0.553,24993,0.61,49,"Very healthy, dense vegetation",Septoria Leaf Blotch
+19.25,47.7,5.37,149.06,wheat,0.521,34829,0.51,30,Moderately healthy vegetation,Yellow Rust
+19.24,50.54,5.67,180.65,wheat,0.786,22133,0.61,47,"Very healthy, dense vegetation",Yellow Rust
+22.47,62.57,5.67,96.75,wheat,0.768,21845,0.49,53,Moderately healthy vegetation,Septoria Leaf Blotch
+36.75,58.26,6.08,124.6,wheat,0.497,26983,0.43,56,Moderately healthy vegetation,No Risk
+29.89,66.35,6.93,198.14,wheat,0.642,34862,0.35,12,Moderately healthy vegetation,No Risk
+29.38,44.82,6.84,172.4,wheat,0.341,33595,0.42,18,Moderately healthy vegetation,No Risk
+29.65,42.9,6.88,186.92,wheat,0.677,30669,0.39,34,Moderately healthy vegetation,No Risk
+19.54,66.35,6.15,173.11,wheat,0.595,32527,0.32,31,Moderately healthy vegetation,Yellow Rust
+20.05,48.94,4.57,122.46,wheat,0.52,31794,0.66,35,"Very healthy, dense vegetation",Septoria Leaf Blotch
+27.91,64.71,3.69,32.68,barley,0.751,31106,0.45,24,Moderately healthy vegetation,Net Blotch
+27.32,51.28,4.37,36.5,barley,0.453,20817,0.52,50,Moderately healthy vegetation,Net Blotch
+28.66,59.32,8.4,36.93,barley,0.976,25247,0.47,59,Moderately healthy vegetation,Net Blotch
+29.03,61.09,8.84,72.98,barley,0.451,25488,0.56,41,Moderately healthy vegetation,Net Blotch
+27.78,54.65,8.15,32.05,barley,0.997,25285,0.41,37,Moderately healthy vegetation,Net Blotch
+32.0,54.11,5.27,71.63,barley,0.639,26285,0.6,55,"Very healthy, dense vegetation",No Risk
+27.34,55.28,8.05,73.45,barley,0.976,33061,0.65,39,"Very healthy, dense vegetation",Net Blotch
+28.93,53.57,9.68,66.36,barley,0.658,28271,0.62,56,"Very healthy, dense vegetation",Net Blotch
+27.65,58.6,6.97,36.94,barley,0.862,22047,0.36,54,Moderately healthy vegetation,Net Blotch
+28.52,55.77,7.39,61.33,barley,0.584,22750,0.48,31,Moderately healthy vegetation,Net Blotch
+31.02,45.89,6.69,53.57,barley,0.531,32288,0.49,10,Moderately healthy vegetation,No Risk
+25.74,45.38,7.88,67.43,barley,0.671,34818,0.39,15,Moderately healthy vegetation,Net Blotch
+31.7,56.85,5.88,44.94,barley,0.567,24412,0.53,29,Moderately healthy vegetation,No Risk
+24.48,58.52,8.2,34.97,barley,0.962,31508,0.62,59,"Very healthy, dense vegetation",Net Blotch
+31.47,51.8,8.99,74.44,barley,0.577,27261,0.39,11,Moderately healthy vegetation,No Risk
+25.61,50.73,5.88,53.39,barley,0.377,24004,0.48,53,Moderately healthy vegetation,Net Blotch
+30.3,47.18,7.71,68.04,barley,0.813,20946,0.48,50,Moderately healthy vegetation,No Risk
+28.17,43.67,4.52,45.78,barley,0.395,21956,0.54,60,Moderately healthy vegetation,Net Blotch
+25.51,44.83,9.93,74.33,barley,0.48,24137,0.61,32,"Very healthy, dense vegetation",Net Blotch
+31.13,43.59,6.46,32.77,barley,0.879,25598,0.69,55,"Very healthy, dense vegetation",No Risk
+26.34,55.59,8.02,35.11,barley,0.339,28846,0.6,34,"Very healthy, dense vegetation",Net Blotch
+28.23,61.56,3.71,72.67,barley,0.837,22756,0.61,58,"Very healthy, dense vegetation",Net Blotch
+27.04,49.33,5.49,48.25,barley,0.478,21087,0.32,45,Moderately healthy vegetation,Net Blotch
+25.16,55.25,9.25,40.9,barley,0.938,20304,0.57,17,Moderately healthy vegetation,Net Blotch
+27.32,51.67,6.01,32.56,barley,0.865,23417,0.3,19,Moderately healthy vegetation,Net Blotch
+25.41,49.66,7.44,31.87,barley,0.981,22024,0.47,20,Moderately healthy vegetation,Net Blotch
+31.22,46.02,3.81,53.12,barley,0.361,22977,0.41,57,Moderately healthy vegetation,No Risk
+30.57,58.23,5.82,62.75,barley,0.793,31233,0.33,18,Moderately healthy vegetation,No Risk
+25.43,53.22,4.52,46.19,barley,0.677,24667,0.6,22,"Very healthy, dense vegetation",Net Blotch
+27.09,43.65,3.51,41.54,barley,0.553,20127,0.59,47,Moderately healthy vegetation,Net Blotch
+24.31,56.33,6.03,59.0,barley,0.998,21265,0.59,35,Moderately healthy vegetation,Net Blotch
+30.06,45.9,5.5,41.06,barley,0.561,32300,0.48,58,Moderately healthy vegetation,No Risk
+28.1,60.98,4.61,33.84,barley,0.459,33143,0.58,36,Moderately healthy vegetation,Net Blotch
+26.34,40.01,5.55,55.5,barley,0.464,31301,0.38,27,Moderately healthy vegetation,Net Blotch
+28.61,57.14,8.29,57.03,barley,0.978,21590,0.54,23,Moderately healthy vegetation,Net Blotch
+28.7,44.36,3.83,44.12,barley,0.404,20277,0.55,30,Moderately healthy vegetation,Net Blotch
+24.22,59.79,8.87,42.25,barley,0.565,23142,0.33,15,Moderately healthy vegetation,Net Blotch
+28.51,45.2,3.79,66.18,barley,0.554,22563,0.61,30,"Very healthy, dense vegetation",Net Blotch
+25.98,64.96,4.19,72.19,barley,0.877,24610,0.66,55,"Very healthy, dense vegetation",Net Blotch
+30.88,41.37,7.66,55.05,barley,0.483,23655,0.35,48,Moderately healthy vegetation,No Risk
+25.5,61.67,9.39,65.08,barley,0.911,24691,0.65,56,"Very healthy, dense vegetation",Net Blotch
+25.13,51.33,4.52,38.49,barley,0.809,28824,0.69,27,"Very healthy, dense vegetation",Net Blotch
+27.11,63.57,5.79,62.2,barley,0.912,34220,0.36,13,Moderately healthy vegetation,Net Blotch
+31.1,44.82,7.35,70.8,barley,0.67,20010,0.36,41,Moderately healthy vegetation,No Risk
+26.46,56.4,5.99,64.16,barley,0.976,26516,0.33,17,Moderately healthy vegetation,Net Blotch
+30.04,63.56,8.62,31.83,barley,0.902,27393,0.61,23,"Very healthy, dense vegetation",No Risk
+27.78,54.82,9.46,50.28,barley,0.926,26123,0.39,12,Moderately healthy vegetation,Net Blotch
+30.99,43.02,8.03,58.28,barley,0.635,21998,0.65,46,"Very healthy, dense vegetation",No Risk
+26.49,47.37,5.41,36.99,barley,0.514,20869,0.53,49,Moderately healthy vegetation,Net Blotch
+31.97,57.17,6.28,64.26,barley,0.722,26504,0.69,29,"Very healthy, dense vegetation",No Risk
+25.36,46.83,9.16,55.61,barley,0.5,25662,0.51,33,Moderately healthy vegetation,Net Blotch
+25.54,56.97,7.89,48.47,barley,0.743,28138,0.67,21,"Very healthy, dense vegetation",Net Blotch
+28.99,62.86,8.18,70.47,barley,0.771,29121,0.65,40,"Very healthy, dense vegetation",Net Blotch
+29.34,60.5,9.07,34.03,barley,0.566,26723,0.37,32,Moderately healthy vegetation,Net Blotch
+28.64,61.39,7.7,68.55,barley,0.935,26333,0.52,50,Moderately healthy vegetation,Net Blotch
+24.83,44.17,5.89,52.08,barley,0.817,28263,0.57,49,Moderately healthy vegetation,Net Blotch
+25.45,58.55,6.16,57.05,barley,0.759,32748,0.55,33,Moderately healthy vegetation,Net Blotch
+31.01,62.4,3.5,63.77,barley,0.632,20217,0.61,22,"Very healthy, dense vegetation",No Risk
+27.06,52.3,7.39,60.75,barley,0.803,32145,0.59,21,Moderately healthy vegetation,Net Blotch
+27.1,42.26,8.34,71.13,barley,0.419,30739,0.64,18,"Very healthy, dense vegetation",Net Blotch
+28.57,57.31,8.66,64.53,barley,0.498,29572,0.54,51,Moderately healthy vegetation,Net Blotch
+28.8,49.84,3.56,40.86,barley,0.83,23156,0.64,33,"Very healthy, dense vegetation",Net Blotch
+27.94,45.41,5.96,69.66,barley,0.994,34881,0.47,46,Moderately healthy vegetation,Net Blotch
+30.48,61.58,9.42,61.87,barley,0.842,28396,0.57,36,Moderately healthy vegetation,No Risk
+30.58,50.77,8.18,64.59,barley,0.588,30049,0.49,44,Moderately healthy vegetation,No Risk
+26.86,41.81,5.13,44.14,barley,0.413,27900,0.31,39,Moderately healthy vegetation,Net Blotch
+26.31,61.19,6.29,35.73,barley,0.89,32942,0.47,27,Moderately healthy vegetation,Net Blotch
+28.78,44.23,7.99,33.96,barley,0.533,20898,0.56,32,Moderately healthy vegetation,Net Blotch
+28.9,43.35,8.92,71.9,barley,0.662,23320,0.5,33,Moderately healthy vegetation,Net Blotch
+29.38,57.7,6.88,38.34,barley,0.391,34034,0.63,51,"Very healthy, dense vegetation",Net Blotch
+24.17,58.25,5.24,59.19,barley,0.561,27017,0.67,12,"Very healthy, dense vegetation",Net Blotch
+26.65,59.79,7.55,36.92,barley,0.326,33248,0.68,26,"Very healthy, dense vegetation",Net Blotch
+28.2,53.51,8.71,52.14,barley,0.943,26590,0.39,19,Moderately healthy vegetation,Net Blotch
+28.76,52.63,7.79,55.22,barley,0.524,34240,0.66,10,"Very healthy, dense vegetation",Net Blotch
+29.35,61.25,8.06,40.83,barley,0.704,27503,0.49,54,Moderately healthy vegetation,Net Blotch
+28.01,52.61,4.4,36.01,barley,0.63,31954,0.55,16,Moderately healthy vegetation,Net Blotch
+26.86,48.82,5.95,34.74,barley,0.656,29345,0.65,14,"Very healthy, dense vegetation",Net Blotch
+31.21,40.93,8.53,53.79,barley,0.984,25733,0.61,39,"Very healthy, dense vegetation",No Risk
+24.2,61.43,7.22,46.02,barley,0.431,21647,0.59,32,Moderately healthy vegetation,Net Blotch
+29.99,49.6,4.93,52.93,barley,0.369,30229,0.68,43,"Very healthy, dense vegetation",Net Blotch
+29.94,54.62,4.63,45.44,barley,0.921,26690,0.61,20,"Very healthy, dense vegetation",Net Blotch
+31.21,41.56,5.03,68.8,barley,0.616,20799,0.63,34,"Very healthy, dense vegetation",No Risk
+26.8,48.24,3.53,43.88,barley,0.822,28831,0.55,55,Moderately healthy vegetation,Net Blotch
+31.49,62.85,8.87,64.57,barley,0.834,22952,0.67,27,"Very healthy, dense vegetation",No Risk
+31.0,46.43,9.41,38.32,barley,0.605,23560,0.43,16,Moderately healthy vegetation,No Risk
+29.61,63.05,5.8,50.2,barley,0.966,26150,0.35,53,Moderately healthy vegetation,Net Blotch
+29.98,57.03,8.35,44.86,barley,0.401,25215,0.4,55,Moderately healthy vegetation,Net Blotch
+30.89,52.63,8.63,55.52,barley,0.585,34137,0.66,49,"Very healthy, dense vegetation",No Risk
+30.39,60.16,7.7,35.37,barley,0.812,26627,0.65,28,"Very healthy, dense vegetation",No Risk
+30.44,55.21,5.26,30.92,barley,0.46,28712,0.52,46,Moderately healthy vegetation,No Risk
+25.33,63.18,9.11,32.71,barley,0.659,26519,0.68,13,"Very healthy, dense vegetation",Net Blotch
+30.54,59.97,4.61,33.49,barley,0.704,27078,0.44,15,Moderately healthy vegetation,No Risk
+30.38,40.59,7.12,47.95,barley,0.396,28989,0.62,42,"Very healthy, dense vegetation",No Risk
+24.02,53.77,7.21,35.03,barley,0.368,27333,0.37,54,Moderately healthy vegetation,Net Blotch
+28.7,61.15,9.94,65.68,barley,0.343,23135,0.68,36,"Very healthy, dense vegetation",Net Blotch
+29.34,49.0,8.91,42.44,barley,0.503,32255,0.41,53,Moderately healthy vegetation,Net Blotch
+27.97,61.35,8.64,70.1,barley,0.483,23005,0.32,45,Moderately healthy vegetation,Net Blotch
+24.87,48.28,8.62,63.92,barley,0.592,33107,0.35,34,Moderately healthy vegetation,Net Blotch
+25.88,45.96,5.84,38.53,barley,0.425,27821,0.32,14,Moderately healthy vegetation,Net Blotch
+31.02,49.98,3.53,32.81,barley,0.767,21778,0.41,32,Moderately healthy vegetation,No Risk
+27.43,87.81,7.19,54.73,potato,0.91,32277,0.47,55,Moderately healthy vegetation,Late Blight
+28.33,80.77,7.03,38.8,potato,0.394,20856,0.38,19,Moderately healthy vegetation,Late Blight
+27.01,84.34,6.64,55.3,potato,0.834,21475,0.66,43,"Very healthy, dense vegetation",Late Blight
+28.17,81.05,6.83,36.36,potato,0.718,25910,0.51,26,Moderately healthy vegetation,Late Blight
+29.88,87.33,6.89,44.75,potato,0.53,28967,0.37,57,Moderately healthy vegetation,Late Blight
+29.89,89.72,7.17,42.99,potato,0.344,32263,0.43,52,Moderately healthy vegetation,Late Blight
+28.56,83.25,6.94,56.48,potato,0.621,26374,0.52,53,Moderately healthy vegetation,Late Blight
+27.54,85.57,7.2,53.02,potato,0.487,30115,0.68,50,"Very healthy, dense vegetation",Late Blight
+29.68,87.94,6.99,41.82,potato,0.806,20496,0.5,40,Moderately healthy vegetation,Late Blight
+28.14,82.12,7.06,46.76,potato,0.322,33538,0.59,21,Moderately healthy vegetation,Late Blight
+29.53,86.73,7.16,59.87,potato,0.531,21270,0.61,59,"Very healthy, dense vegetation",Late Blight
+27.88,86.45,6.36,44.64,potato,0.783,30698,0.33,25,Moderately healthy vegetation,Late Blight
+28.22,82.36,6.43,44.01,potato,0.648,33357,0.34,20,Moderately healthy vegetation,Late Blight
+29.01,84.96,6.66,45.91,potato,0.722,27827,0.62,12,"Very healthy, dense vegetation",Late Blight
+29.76,86.45,6.64,37.55,potato,0.428,23524,0.32,37,Moderately healthy vegetation,Late Blight
+29.78,85.17,6.79,40.78,potato,0.707,23074,0.6,33,"Very healthy, dense vegetation",Late Blight
+27.86,80.45,6.85,42.83,potato,0.533,29771,0.44,29,Moderately healthy vegetation,Late Blight
+27.11,84.97,7.12,51.53,potato,0.94,27049,0.69,26,"Very healthy, dense vegetation",Late Blight
+27.11,83.64,6.88,49.12,potato,0.799,23023,0.33,24,Moderately healthy vegetation,Late Blight
+28.95,89.08,6.42,57.66,potato,0.67,29771,0.46,32,Moderately healthy vegetation,Late Blight
+29.22,87.94,6.54,43.14,potato,0.898,21980,0.6,57,"Very healthy, dense vegetation",Late Blight
+28.74,85.82,6.45,48.55,potato,0.474,33072,0.65,21,"Very healthy, dense vegetation",Late Blight
+29.65,80.3,6.49,56.76,potato,0.454,30973,0.43,25,Moderately healthy vegetation,Late Blight
+27.24,86.4,6.71,37.31,potato,0.446,28276,0.31,56,Moderately healthy vegetation,Late Blight
+28.95,81.67,6.51,56.51,potato,0.333,33973,0.53,54,Moderately healthy vegetation,Late Blight
+28.19,82.61,6.29,37.01,potato,0.807,33890,0.35,54,Moderately healthy vegetation,Late Blight
+28.3,86.21,6.86,50.47,potato,0.654,21579,0.39,14,Moderately healthy vegetation,Late Blight
+27.9,88.72,6.78,57.8,potato,0.357,30881,0.46,51,Moderately healthy vegetation,Late Blight
+28.69,87.5,6.77,44.57,potato,0.564,24392,0.48,36,Moderately healthy vegetation,Late Blight
+27.83,88.73,6.32,56.69,potato,0.313,22083,0.37,57,Moderately healthy vegetation,Late Blight
+28.71,81.59,6.71,59.87,potato,0.863,28239,0.65,31,"Very healthy, dense vegetation",Late Blight
+28.64,84.61,6.79,48.48,potato,0.402,21885,0.65,22,"Very healthy, dense vegetation",Late Blight
+28.29,88.44,7.13,48.57,potato,0.744,30599,0.34,37,Moderately healthy vegetation,Late Blight
+27.61,86.13,7.01,43.8,potato,0.813,20998,0.65,29,"Very healthy, dense vegetation",Late Blight
+28.61,86.99,7.16,36.95,potato,0.81,30524,0.69,55,"Very healthy, dense vegetation",Late Blight
+29.25,84.8,6.99,53.43,potato,0.635,26791,0.44,38,Moderately healthy vegetation,Late Blight
+28.63,89.11,6.22,50.5,potato,0.931,25868,0.49,15,Moderately healthy vegetation,Late Blight
+29.57,88.08,7.2,45.04,potato,0.803,27684,0.7,20,"Very healthy, dense vegetation",Late Blight
+27.83,87.17,6.39,58.37,potato,0.909,26901,0.59,54,Moderately healthy vegetation,Late Blight
+29.88,83.15,6.62,40.12,potato,0.774,21803,0.35,30,Moderately healthy vegetation,Late Blight
+27.34,88.5,7.03,51.1,potato,0.958,30825,0.56,26,Moderately healthy vegetation,Late Blight
+29.83,89.3,6.32,58.87,potato,0.576,24056,0.54,52,Moderately healthy vegetation,Late Blight
+28.28,82.76,6.4,56.05,potato,0.371,32625,0.44,39,Moderately healthy vegetation,Late Blight
+29.87,85.99,6.4,58.41,potato,0.308,29954,0.48,15,Moderately healthy vegetation,Late Blight
+29.59,89.99,6.9,54.96,potato,0.471,31949,0.44,17,Moderately healthy vegetation,Late Blight
+28.07,82.91,6.48,49.62,potato,0.314,32662,0.6,58,"Very healthy, dense vegetation",Late Blight
+27.84,90.0,7.06,52.85,potato,0.784,31069,0.67,44,"Very healthy, dense vegetation",Late Blight
+27.11,87.45,6.98,55.04,potato,0.851,25613,0.63,59,"Very healthy, dense vegetation",Late Blight
+27.69,81.94,6.23,54.62,potato,0.818,27384,0.69,22,"Very healthy, dense vegetation",Late Blight
+29.35,85.6,6.23,59.04,potato,0.913,21821,0.3,33,Moderately healthy vegetation,Late Blight
+28.36,84.86,7.14,52.93,potato,0.542,30583,0.69,20,"Very healthy, dense vegetation",Late Blight
+27.65,89.81,6.46,56.53,potato,0.866,24755,0.33,11,Moderately healthy vegetation,Late Blight
+27.31,85.45,6.57,53.15,potato,0.55,30404,0.7,58,"Very healthy, dense vegetation",Late Blight
+27.07,86.9,7.13,50.47,potato,0.767,34445,0.5,33,Moderately healthy vegetation,Late Blight
+28.07,85.92,6.43,39.24,potato,0.692,32381,0.66,25,"Very healthy, dense vegetation",Late Blight
+27.73,81.14,6.25,44.18,potato,0.462,26084,0.58,35,Moderately healthy vegetation,Late Blight
+27.54,89.93,6.62,45.49,potato,0.402,20983,0.65,34,"Very healthy, dense vegetation",Late Blight
+29.66,84.28,6.38,56.1,potato,0.303,29026,0.65,18,"Very healthy, dense vegetation",Late Blight
+29.91,85.85,6.42,41.39,potato,0.334,29523,0.5,31,Moderately healthy vegetation,Late Blight
+28.36,87.6,6.32,58.0,potato,0.513,34501,0.45,60,Moderately healthy vegetation,Late Blight
+29.46,87.61,6.98,43.15,potato,0.617,27100,0.59,47,Moderately healthy vegetation,Late Blight
+29.73,82.89,6.44,50.92,potato,0.914,32519,0.56,47,Moderately healthy vegetation,Late Blight
+27.47,87.18,7.18,43.78,potato,0.458,26309,0.36,19,Moderately healthy vegetation,Late Blight
+27.77,87.1,6.4,49.51,potato,0.803,29589,0.69,39,"Very healthy, dense vegetation",Late Blight
+29.13,88.48,7.09,36.45,potato,0.735,25184,0.58,58,Moderately healthy vegetation,Late Blight
+27.11,89.9,6.7,37.46,potato,0.79,24695,0.67,35,"Very healthy, dense vegetation",Late Blight
+28.88,86.94,6.59,53.8,potato,0.585,33989,0.6,40,"Very healthy, dense vegetation",Late Blight
+28.15,83.8,6.65,37.45,potato,0.501,32820,0.52,54,Moderately healthy vegetation,Late Blight
+29.89,80.14,7.12,54.8,potato,0.542,34787,0.5,36,Moderately healthy vegetation,Late Blight
+27.42,80.98,6.91,40.53,potato,0.833,26302,0.46,12,Moderately healthy vegetation,Late Blight
+29.27,89.49,7.07,50.92,potato,0.757,26764,0.42,56,Moderately healthy vegetation,Late Blight
+29.65,88.49,6.53,56.02,potato,0.596,20811,0.34,41,Moderately healthy vegetation,Late Blight
+28.45,82.68,6.68,58.19,potato,0.65,31627,0.56,50,Moderately healthy vegetation,Late Blight
+27.96,83.98,6.58,48.94,potato,0.895,26616,0.66,15,"Very healthy, dense vegetation",Late Blight
+29.26,81.98,6.86,42.02,potato,0.456,34136,0.32,12,Moderately healthy vegetation,Late Blight
+28.36,88.01,6.49,43.05,potato,0.731,29940,0.37,41,Moderately healthy vegetation,Late Blight
+27.63,86.49,6.61,39.26,potato,0.649,32633,0.61,34,"Very healthy, dense vegetation",Late Blight
+28.66,86.12,6.86,50.02,potato,0.772,32133,0.53,39,Moderately healthy vegetation,Late Blight
+29.21,87.11,6.42,51.54,potato,0.774,20317,0.36,21,Moderately healthy vegetation,Late Blight
+29.41,86.16,6.37,53.35,potato,0.427,23611,0.37,59,Moderately healthy vegetation,Late Blight
+28.03,84.88,6.56,36.12,potato,0.751,21279,0.51,43,Moderately healthy vegetation,Late Blight
+28.09,80.35,6.76,38.14,potato,0.436,25828,0.48,32,Moderately healthy vegetation,Late Blight
+29.16,80.28,6.72,40.17,potato,0.709,32170,0.58,54,Moderately healthy vegetation,Late Blight
+29.86,80.03,6.67,50.66,potato,0.514,33470,0.6,33,"Very healthy, dense vegetation",Late Blight
+29.07,83.69,6.63,43.95,potato,0.627,20220,0.41,59,Moderately healthy vegetation,Late Blight
+27.39,88.67,6.7,58.3,potato,0.431,29889,0.66,53,"Very healthy, dense vegetation",Late Blight
+27.93,85.42,7.01,43.25,potato,0.989,28384,0.66,60,"Very healthy, dense vegetation",Late Blight
+29.28,81.8,6.89,44.47,potato,0.646,27470,0.5,54,Moderately healthy vegetation,Late Blight
+29.0,83.79,6.82,59.84,potato,0.635,31009,0.63,24,"Very healthy, dense vegetation",Late Blight
+27.93,86.55,7.18,43.48,potato,0.996,33438,0.41,14,Moderately healthy vegetation,Late Blight
+28.55,88.96,6.27,49.49,potato,0.627,24980,0.68,37,"Very healthy, dense vegetation",Late Blight
+29.36,89.19,6.68,48.3,potato,0.966,21308,0.4,30,Moderately healthy vegetation,Late Blight
+28.56,83.64,6.69,41.01,potato,0.708,24971,0.66,13,"Very healthy, dense vegetation",Late Blight
+28.44,87.91,6.58,43.12,potato,0.772,20913,0.43,36,Moderately healthy vegetation,Late Blight
+28.8,80.46,6.73,44.3,potato,0.857,33288,0.41,36,Moderately healthy vegetation,Late Blight
+28.73,89.13,7.07,58.53,potato,0.425,22666,0.39,42,Moderately healthy vegetation,Late Blight
+27.96,83.53,6.92,43.26,potato,0.696,23731,0.36,54,Moderately healthy vegetation,Late Blight
+28.17,83.7,6.77,37.25,potato,0.519,33695,0.51,11,Moderately healthy vegetation,Late Blight
+28.78,86.69,6.98,56.12,potato,0.924,27909,0.63,33,"Very healthy, dense vegetation",Late Blight
+28.44,83.49,6.27,52.55,potato,0.788,33016,0.69,17,"Very healthy, dense vegetation",Late Blight
+29.48,63.2,7.45,71.89,strawberries,0.343,30548,0.57,34,Moderately healthy vegetation,No Risk
+26.73,68.14,7.04,67.15,strawberries,0.854,32591,0.35,26,Moderately healthy vegetation,No Risk
+26.27,62.29,7.42,70.23,strawberries,0.579,32613,0.31,44,Moderately healthy vegetation,No Risk
+34.04,67.21,6.5,73.24,strawberries,0.504,27419,0.56,33,Moderately healthy vegetation,No Risk
+28.04,65.07,6.81,72.5,strawberries,0.973,32480,0.6,27,"Very healthy, dense vegetation",No Risk
+28.81,65.34,7.58,62.26,strawberries,0.855,33410,0.61,52,"Very healthy, dense vegetation",No Risk
+34.04,64.29,7.74,66.86,strawberries,0.897,23576,0.31,13,Moderately healthy vegetation,No Risk
+33.86,61.57,6.57,68.02,strawberries,0.701,30752,0.35,47,Moderately healthy vegetation,No Risk
+32.84,68.68,7.54,73.67,strawberries,0.966,27822,0.34,25,Moderately healthy vegetation,No Risk
+27.1,63.36,6.54,73.85,strawberries,0.906,29794,0.48,26,Moderately healthy vegetation,No Risk
+25.66,61.18,7.22,69.29,strawberries,0.467,27438,0.36,21,Moderately healthy vegetation,No Risk
+32.35,66.61,7.55,64.56,strawberries,0.444,33298,0.39,29,Moderately healthy vegetation,No Risk
+29.59,68.32,6.93,67.53,strawberries,0.672,28095,0.32,25,Moderately healthy vegetation,No Risk
+30.91,68.79,7.75,66.64,strawberries,0.677,24873,0.66,32,"Very healthy, dense vegetation",No Risk
+28.13,64.21,6.71,70.86,strawberries,0.475,24836,0.34,56,Moderately healthy vegetation,No Risk
+30.09,69.35,6.67,67.14,strawberries,0.6,20518,0.6,39,"Very healthy, dense vegetation",No Risk
+31.74,62.51,7.33,68.97,strawberries,0.518,28151,0.33,23,Moderately healthy vegetation,No Risk
+27.81,62.5,7.6,69.76,strawberries,0.954,25956,0.45,48,Moderately healthy vegetation,No Risk
+32.89,64.59,7.71,71.51,strawberries,0.54,29986,0.62,57,"Very healthy, dense vegetation",No Risk
+29.36,64.99,7.37,61.91,strawberries,0.454,24888,0.62,52,"Very healthy, dense vegetation",No Risk
+27.83,67.59,6.92,74.01,strawberries,0.55,33154,0.67,48,"Very healthy, dense vegetation",No Risk
+28.5,60.45,7.19,74.92,strawberries,0.752,25355,0.66,12,"Very healthy, dense vegetation",No Risk
+27.74,68.54,7.08,71.79,strawberries,0.84,23952,0.63,15,"Very healthy, dense vegetation",No Risk
+30.42,67.66,6.74,63.02,strawberries,0.778,22212,0.62,43,"Very healthy, dense vegetation",No Risk
+27.33,69.09,6.73,61.19,strawberries,0.961,26299,0.67,50,"Very healthy, dense vegetation",No Risk
+30.28,61.69,6.63,65.63,strawberries,0.508,29381,0.56,30,Moderately healthy vegetation,No Risk
+28.57,61.53,7.13,63.5,strawberries,0.978,24653,0.66,53,"Very healthy, dense vegetation",No Risk
+25.37,66.64,7.54,65.82,strawberries,0.649,33929,0.46,40,Moderately healthy vegetation,Botrytis
+34.95,65.27,7.16,70.14,strawberries,0.315,30876,0.47,60,Moderately healthy vegetation,No Risk
+25.1,67.73,6.86,74.62,strawberries,0.518,31195,0.33,36,Moderately healthy vegetation,Botrytis
+32.48,64.35,7.4,65.82,strawberries,0.858,23639,0.35,30,Moderately healthy vegetation,No Risk
+33.86,68.59,6.88,69.24,strawberries,0.487,21210,0.61,29,"Very healthy, dense vegetation",No Risk
+25.2,60.37,6.58,70.89,strawberries,0.53,31089,0.67,17,"Very healthy, dense vegetation",No Risk
+31.78,69.02,7.3,61.47,strawberries,0.817,32466,0.44,48,Moderately healthy vegetation,No Risk
+34.9,63.6,6.97,64.73,strawberries,0.683,21100,0.4,54,Moderately healthy vegetation,No Risk
+31.74,68.64,7.24,62.31,strawberries,0.515,21903,0.34,17,Moderately healthy vegetation,No Risk
+27.16,66.76,6.92,69.85,strawberries,0.765,34160,0.61,38,"Very healthy, dense vegetation",No Risk
+26.24,67.89,7.5,73.59,strawberries,0.764,32291,0.54,55,Moderately healthy vegetation,No Risk
+30.2,60.07,7.15,66.37,strawberries,0.697,30619,0.31,17,Moderately healthy vegetation,No Risk
+31.56,67.84,7.14,74.87,strawberries,0.655,20536,0.64,49,"Very healthy, dense vegetation",No Risk
+29.68,69.09,6.81,65.66,strawberries,0.349,31286,0.36,31,Moderately healthy vegetation,No Risk
+27.05,67.7,7.39,60.47,strawberries,0.501,28247,0.3,36,Moderately healthy vegetation,No Risk
+34.64,61.39,7.7,72.43,strawberries,0.903,24161,0.48,12,Moderately healthy vegetation,No Risk
+33.39,62.94,6.6,63.57,strawberries,0.678,24306,0.69,50,"Very healthy, dense vegetation",No Risk
+28.84,63.37,6.73,70.25,strawberries,0.664,33999,0.69,11,"Very healthy, dense vegetation",No Risk
+31.49,63.06,6.52,71.48,strawberries,0.446,34092,0.49,15,Moderately healthy vegetation,No Risk
+25.55,63.95,7.71,63.18,strawberries,0.974,29909,0.41,35,Moderately healthy vegetation,No Risk
+34.37,69.69,6.6,70.27,strawberries,0.378,26238,0.5,18,Moderately healthy vegetation,No Risk
+34.6,63.11,7.4,60.42,strawberries,0.56,21207,0.61,23,"Very healthy, dense vegetation",No Risk
+29.43,64.94,7.52,72.18,strawberries,0.847,34423,0.36,37,Moderately healthy vegetation,No Risk
+29.11,67.91,7.18,67.83,strawberries,0.667,22395,0.32,33,Moderately healthy vegetation,No Risk
+28.57,65.72,6.59,70.09,strawberries,0.617,28248,0.39,41,Moderately healthy vegetation,No Risk
+27.54,69.35,7.14,69.41,strawberries,0.322,33136,0.39,51,Moderately healthy vegetation,No Risk
+33.05,68.94,6.69,62.3,strawberries,0.948,24058,0.51,56,Moderately healthy vegetation,No Risk
+33.95,69.96,7.42,61.16,strawberries,0.985,32772,0.42,23,Moderately healthy vegetation,No Risk
+30.12,60.12,6.58,71.73,strawberries,0.327,34344,0.6,21,"Very healthy, dense vegetation",No Risk
+29.58,66.18,7.5,69.44,strawberries,0.5,23417,0.54,44,Moderately healthy vegetation,No Risk
+27.26,68.01,7.78,68.92,strawberries,0.955,22716,0.58,57,Moderately healthy vegetation,No Risk
+31.36,64.25,7.32,63.86,strawberries,0.744,21409,0.69,40,"Very healthy, dense vegetation",No Risk
+31.52,66.56,7.58,61.71,strawberries,0.412,26751,0.66,22,"Very healthy, dense vegetation",No Risk
+29.4,64.26,7.11,67.48,strawberries,0.693,21884,0.49,38,Moderately healthy vegetation,No Risk
+29.38,64.15,7.36,65.24,strawberries,0.652,26892,0.52,32,Moderately healthy vegetation,No Risk
+28.39,61.89,7.41,74.24,strawberries,0.894,27793,0.42,26,Moderately healthy vegetation,No Risk
+28.47,63.54,6.5,69.53,strawberries,0.469,21002,0.62,49,"Very healthy, dense vegetation",No Risk
+30.64,61.15,7.17,71.37,strawberries,0.802,27968,0.62,10,"Very healthy, dense vegetation",No Risk
+25.26,61.37,7.26,68.65,strawberries,0.381,30430,0.57,39,Moderately healthy vegetation,No Risk
+32.97,60.18,7.59,73.45,strawberries,0.905,27492,0.51,21,Moderately healthy vegetation,No Risk
+33.67,66.6,7.53,67.33,strawberries,0.96,33589,0.3,44,Moderately healthy vegetation,No Risk
+32.84,68.0,7.25,73.4,strawberries,0.737,26473,0.61,40,"Very healthy, dense vegetation",No Risk
+27.46,62.9,6.51,69.46,strawberries,0.61,25062,0.54,18,Moderately healthy vegetation,No Risk
+25.69,69.84,7.12,74.62,strawberries,0.711,22591,0.59,45,Moderately healthy vegetation,Botrytis
+30.03,64.15,7.57,71.21,strawberries,0.633,31162,0.38,12,Moderately healthy vegetation,No Risk
+28.21,68.27,7.35,64.33,strawberries,0.345,34376,0.43,41,Moderately healthy vegetation,No Risk
+28.27,61.19,7.51,63.3,strawberries,0.418,24253,0.56,23,Moderately healthy vegetation,No Risk
+28.54,64.2,7.03,69.69,strawberries,0.86,28781,0.55,28,Moderately healthy vegetation,No Risk
+26.87,61.61,6.8,63.52,strawberries,0.641,24193,0.45,17,Moderately healthy vegetation,No Risk
+32.8,68.78,7.16,64.11,strawberries,0.958,34152,0.58,43,Moderately healthy vegetation,No Risk
+26.42,64.51,7.34,63.47,strawberries,0.588,29240,0.37,30,Moderately healthy vegetation,No Risk
+29.79,63.39,6.62,63.02,strawberries,0.668,24855,0.46,40,Moderately healthy vegetation,No Risk
+27.44,67.1,6.66,72.51,strawberries,0.441,26711,0.41,50,Moderately healthy vegetation,No Risk
+34.13,65.15,7.73,70.41,strawberries,0.815,34227,0.65,25,"Very healthy, dense vegetation",No Risk
+30.95,64.23,7.4,62.79,strawberries,0.672,28970,0.33,22,Moderately healthy vegetation,No Risk
+28.76,61.03,6.6,73.38,strawberries,0.595,20169,0.38,48,Moderately healthy vegetation,No Risk
+27.25,66.1,7.04,62.32,strawberries,0.971,32788,0.47,53,Moderately healthy vegetation,No Risk
+28.63,66.77,7.35,62.27,strawberries,0.932,21367,0.38,28,Moderately healthy vegetation,No Risk
+26.42,63.65,7.03,64.42,strawberries,0.601,33412,0.56,31,Moderately healthy vegetation,No Risk
+32.82,66.16,6.81,68.84,strawberries,0.881,23244,0.55,60,Moderately healthy vegetation,No Risk
+29.63,65.91,7.42,71.16,strawberries,0.356,22904,0.36,22,Moderately healthy vegetation,No Risk
+33.49,62.73,6.85,65.45,strawberries,0.764,28732,0.51,54,Moderately healthy vegetation,No Risk
+31.87,66.74,7.19,74.22,strawberries,0.567,33774,0.38,52,Moderately healthy vegetation,No Risk
+30.33,65.63,7.01,71.65,strawberries,0.58,34705,0.37,42,Moderately healthy vegetation,No Risk
+28.55,66.31,7.37,62.83,strawberries,0.356,31087,0.44,29,Moderately healthy vegetation,No Risk
+30.03,67.89,7.26,66.47,strawberries,0.862,27282,0.69,44,"Very healthy, dense vegetation",No Risk
+31.66,60.13,6.53,66.69,strawberries,0.938,22580,0.43,33,Moderately healthy vegetation,No Risk
+30.33,63.55,6.87,74.17,strawberries,0.428,27014,0.31,16,Moderately healthy vegetation,No Risk
+33.37,65.68,6.87,64.9,strawberries,0.367,31857,0.46,18,Moderately healthy vegetation,No Risk
+31.43,62.99,7.76,64.78,strawberries,0.959,28825,0.52,41,Moderately healthy vegetation,No Risk
+27.72,63.29,6.78,68.57,strawberries,0.998,34248,0.67,37,"Very healthy, dense vegetation",No Risk
+32.64,61.3,7.33,61.84,strawberries,0.884,34796,0.45,25,Moderately healthy vegetation,No Risk
+32.75,67.78,7.45,63.38,strawberries,0.826,21664,0.49,38,Moderately healthy vegetation,No Risk
+28.05,63.5,7.6,43.36,oilseed rape,0.486,33157,0.61,28,"Very healthy, dense vegetation",No Risk
+19.44,63.28,7.73,46.83,oilseed rape,0.604,33447,0.45,20,Moderately healthy vegetation,No Risk
+29.85,60.64,7.49,46.8,oilseed rape,0.931,32770,0.6,36,"Very healthy, dense vegetation",No Risk
+21.36,69.92,6.63,46.64,oilseed rape,0.82,25891,0.52,30,Moderately healthy vegetation,No Risk
+26.29,68.52,7.32,46.14,oilseed rape,0.984,30476,0.45,56,Moderately healthy vegetation,No Risk
+22.17,62.14,6.41,53.47,oilseed rape,0.486,20010,0.61,32,"Very healthy, dense vegetation",Phoma Stem Canker
+26.58,60.98,7.84,50.89,oilseed rape,0.338,27316,0.55,52,Moderately healthy vegetation,No Risk
+26.59,66.14,6.14,50.91,oilseed rape,0.982,22550,0.66,45,"Very healthy, dense vegetation",No Risk
+19.13,62.58,6.59,36.47,oilseed rape,0.522,20470,0.5,27,Moderately healthy vegetation,No Risk
+28.75,69.16,7.29,35.15,oilseed rape,0.681,33234,0.69,24,"Very healthy, dense vegetation",No Risk
+25.79,60.28,6.06,49.14,oilseed rape,0.906,32475,0.67,54,"Very healthy, dense vegetation",No Risk
+23.89,61.79,6.66,52.56,oilseed rape,0.367,34628,0.43,35,Moderately healthy vegetation,Phoma Stem Canker
+28.67,63.19,7.3,42.96,oilseed rape,0.558,21061,0.49,39,Moderately healthy vegetation,No Risk
+28.42,61.77,7.82,49.02,oilseed rape,0.797,33870,0.36,31,Moderately healthy vegetation,No Risk
+21.35,62.6,5.93,41.78,oilseed rape,0.943,24719,0.61,44,"Very healthy, dense vegetation",No Risk
+21.13,63.19,6.4,38.72,oilseed rape,0.846,24205,0.42,24,Moderately healthy vegetation,No Risk
+24.02,61.62,7.4,49.78,oilseed rape,0.894,33501,0.54,13,Moderately healthy vegetation,No Risk
+25.4,65.86,7.72,51.92,oilseed rape,0.456,22531,0.45,55,Moderately healthy vegetation,No Risk
+29.03,64.49,7.48,54.94,oilseed rape,0.732,20296,0.34,48,Moderately healthy vegetation,No Risk
+20.21,68.65,6.89,50.9,oilseed rape,0.656,33365,0.55,57,Moderately healthy vegetation,Phoma Stem Canker
+29.2,68.02,7.44,44.93,oilseed rape,0.585,20906,0.55,17,Moderately healthy vegetation,No Risk
+18.3,69.69,7.63,49.39,oilseed rape,0.677,22627,0.55,13,Moderately healthy vegetation,No Risk
+27.41,63.42,7.34,44.43,oilseed rape,0.683,28350,0.6,31,"Very healthy, dense vegetation",No Risk
+24.84,60.09,6.75,48.78,oilseed rape,0.665,24145,0.31,58,Moderately healthy vegetation,No Risk
+29.94,67.31,7.52,40.37,oilseed rape,0.488,34252,0.61,17,"Very healthy, dense vegetation",No Risk
+25.88,67.55,6.35,47.9,oilseed rape,0.91,26031,0.49,35,Moderately healthy vegetation,No Risk
+20.05,65.84,7.14,46.05,oilseed rape,0.565,21481,0.69,36,"Very healthy, dense vegetation",No Risk
+22.99,66.71,7.67,54.49,oilseed rape,0.575,32325,0.63,28,"Very healthy, dense vegetation",Phoma Stem Canker
+25.13,66.93,7.4,49.04,oilseed rape,0.78,25069,0.55,32,Moderately healthy vegetation,No Risk
+28.5,62.45,7.84,53.15,oilseed rape,0.543,23606,0.43,10,Moderately healthy vegetation,No Risk
+18.29,69.49,6.25,48.6,oilseed rape,0.521,25448,0.47,10,Moderately healthy vegetation,No Risk
+24.38,61.18,6.87,53.14,oilseed rape,0.977,32019,0.3,57,Moderately healthy vegetation,Phoma Stem Canker
+21.32,66.44,7.32,45.43,oilseed rape,0.346,34583,0.58,15,Moderately healthy vegetation,No Risk
+18.54,62.71,6.3,44.08,oilseed rape,0.838,32890,0.34,15,Moderately healthy vegetation,No Risk
+25.29,60.86,7.24,49.37,oilseed rape,0.67,26187,0.45,42,Moderately healthy vegetation,No Risk
+25.43,69.13,7.69,41.03,oilseed rape,0.985,20811,0.46,46,Moderately healthy vegetation,No Risk
+28.84,69.76,6.89,44.09,oilseed rape,0.447,29691,0.47,42,Moderately healthy vegetation,No Risk
+27.38,63.94,6.16,49.47,oilseed rape,0.372,33798,0.43,26,Moderately healthy vegetation,No Risk
+28.32,60.19,6.17,45.37,oilseed rape,0.936,29892,0.38,54,Moderately healthy vegetation,No Risk
+27.48,62.05,6.86,37.81,oilseed rape,0.529,28932,0.31,45,Moderately healthy vegetation,No Risk
+18.28,68.1,6.98,48.8,oilseed rape,0.438,30909,0.54,15,Moderately healthy vegetation,No Risk
+27.61,69.3,7.04,42.72,oilseed rape,0.515,29636,0.31,43,Moderately healthy vegetation,No Risk
+23.44,63.22,5.94,45.4,oilseed rape,0.631,33594,0.53,54,Moderately healthy vegetation,No Risk
+20.96,63.68,7.24,52.4,oilseed rape,0.909,31841,0.65,47,"Very healthy, dense vegetation",Phoma Stem Canker
+23.79,68.03,6.52,49.74,oilseed rape,0.852,31628,0.62,25,"Very healthy, dense vegetation",No Risk
+22.64,65.45,6.23,38.3,oilseed rape,0.577,34518,0.66,19,"Very healthy, dense vegetation",No Risk
+21.54,65.47,7.51,35.75,oilseed rape,0.741,33500,0.34,49,Moderately healthy vegetation,No Risk
+29.88,65.73,6.95,44.96,oilseed rape,0.674,28821,0.69,51,"Very healthy, dense vegetation",No Risk
+25.27,67.1,6.96,48.34,oilseed rape,0.901,24442,0.62,23,"Very healthy, dense vegetation",No Risk
+25.18,68.93,6.55,35.03,oilseed rape,0.841,34782,0.41,40,Moderately healthy vegetation,No Risk
+24.12,61.1,6.46,44.24,oilseed rape,0.925,30397,0.53,43,Moderately healthy vegetation,No Risk
+23.34,67.4,7.07,36.19,oilseed rape,0.584,31368,0.39,43,Moderately healthy vegetation,No Risk
+21.75,63.4,6.77,50.43,oilseed rape,0.481,34019,0.62,41,"Very healthy, dense vegetation",Phoma Stem Canker
+27.6,63.46,5.92,54.38,oilseed rape,0.512,20433,0.62,52,"Very healthy, dense vegetation",No Risk
+24.39,62.5,6.71,47.26,oilseed rape,0.93,29873,0.34,30,Moderately healthy vegetation,No Risk
+24.98,66.9,6.38,38.21,oilseed rape,0.814,20223,0.64,21,"Very healthy, dense vegetation",No Risk
+28.23,69.32,6.31,35.37,oilseed rape,0.425,27727,0.35,48,Moderately healthy vegetation,No Risk
+26.03,69.56,7.39,37.11,oilseed rape,0.59,21559,0.52,40,Moderately healthy vegetation,No Risk
+28.05,64.08,7.5,37.16,oilseed rape,0.993,29107,0.34,14,Moderately healthy vegetation,No Risk
+24.87,64.0,7.2,48.28,oilseed rape,0.73,31988,0.32,41,Moderately healthy vegetation,No Risk
+23.97,62.36,7.01,53.41,oilseed rape,0.636,26441,0.47,30,Moderately healthy vegetation,Phoma Stem Canker
+20.06,67.76,6.68,42.9,oilseed rape,0.654,22276,0.63,52,"Very healthy, dense vegetation",No Risk
+19.59,61.29,6.74,41.77,oilseed rape,0.469,29601,0.6,24,"Very healthy, dense vegetation",No Risk
+29.77,66.29,6.55,35.7,oilseed rape,0.454,26327,0.65,47,"Very healthy, dense vegetation",No Risk
+27.52,60.54,6.55,48.06,oilseed rape,0.751,30204,0.53,52,Moderately healthy vegetation,No Risk
+25.63,63.15,6.59,45.5,oilseed rape,0.311,29004,0.5,51,Moderately healthy vegetation,No Risk
+20.39,60.48,6.92,53.32,oilseed rape,0.636,33789,0.65,49,"Very healthy, dense vegetation",Phoma Stem Canker
+25.39,60.5,7.44,39.18,oilseed rape,0.861,21280,0.49,20,Moderately healthy vegetation,No Risk
+24.91,60.71,7.14,42.2,oilseed rape,0.841,28139,0.34,32,Moderately healthy vegetation,No Risk
+27.7,63.21,7.75,37.46,oilseed rape,0.545,28677,0.67,54,"Very healthy, dense vegetation",No Risk
+18.06,65.1,6.3,51.55,oilseed rape,0.44,31246,0.33,13,Moderately healthy vegetation,Phoma Stem Canker
+18.13,62.46,6.08,50.61,oilseed rape,0.421,22198,0.48,46,Moderately healthy vegetation,Phoma Stem Canker
+23.83,67.9,6.77,46.91,oilseed rape,0.42,34672,0.4,25,Moderately healthy vegetation,No Risk
+23.19,62.75,7.64,49.55,oilseed rape,0.499,21636,0.68,46,"Very healthy, dense vegetation",No Risk
+25.09,68.18,6.56,41.45,oilseed rape,0.515,29213,0.67,10,"Very healthy, dense vegetation",No Risk
+25.87,61.88,7.07,36.68,oilseed rape,0.421,20502,0.44,44,Moderately healthy vegetation,No Risk
+18.44,68.05,7.73,39.01,oilseed rape,0.709,28020,0.38,50,Moderately healthy vegetation,No Risk
+27.15,67.03,6.16,52.51,oilseed rape,0.335,30607,0.44,14,Moderately healthy vegetation,No Risk
+23.33,64.51,7.24,47.02,oilseed rape,0.485,33885,0.43,15,Moderately healthy vegetation,No Risk
+26.72,62.97,6.9,42.87,oilseed rape,0.923,23055,0.69,57,"Very healthy, dense vegetation",No Risk
+19.56,64.45,6.82,53.05,oilseed rape,0.8,29244,0.59,40,Moderately healthy vegetation,Phoma Stem Canker
+26.14,66.77,6.26,46.48,oilseed rape,0.782,29853,0.41,48,Moderately healthy vegetation,No Risk
+28.0,65.58,6.49,49.94,oilseed rape,0.883,27302,0.68,14,"Very healthy, dense vegetation",No Risk
+29.06,62.11,7.04,36.5,oilseed rape,0.709,33153,0.56,49,Moderately healthy vegetation,No Risk
+25.71,64.11,7.69,50.17,oilseed rape,0.914,33507,0.53,55,Moderately healthy vegetation,No Risk
+21.8,63.73,6.25,46.62,oilseed rape,0.622,31816,0.44,55,Moderately healthy vegetation,No Risk
+24.71,60.27,6.05,53.12,oilseed rape,0.516,29661,0.53,49,Moderately healthy vegetation,Phoma Stem Canker
+20.95,65.81,7.0,44.24,oilseed rape,0.865,25076,0.37,57,Moderately healthy vegetation,No Risk
+24.85,68.98,7.27,41.61,oilseed rape,0.552,24121,0.53,53,Moderately healthy vegetation,No Risk
+21.91,65.22,5.96,36.1,oilseed rape,0.679,27744,0.38,37,Moderately healthy vegetation,No Risk
+25.93,68.71,7.08,51.02,oilseed rape,0.396,30842,0.35,33,Moderately healthy vegetation,No Risk
+29.82,69.41,6.59,51.56,oilseed rape,0.742,27618,0.57,23,Moderately healthy vegetation,No Risk
+27.52,63.13,7.29,45.21,oilseed rape,0.677,26287,0.36,45,Moderately healthy vegetation,No Risk
+28.0,68.64,7.33,46.11,oilseed rape,0.937,21167,0.63,28,"Very healthy, dense vegetation",No Risk
+20.77,63.9,6.37,47.93,oilseed rape,0.473,34138,0.66,19,"Very healthy, dense vegetation",No Risk
+23.05,60.42,7.01,52.6,oilseed rape,0.751,27875,0.66,44,"Very healthy, dense vegetation",Phoma Stem Canker
+21.66,63.58,6.28,38.08,oilseed rape,0.689,31604,0.58,51,Moderately healthy vegetation,No Risk
+26.25,67.63,7.62,40.81,oilseed rape,0.89,28376,0.43,36,Moderately healthy vegetation,No Risk
+20.97,63.83,7.63,53.1,oilseed rape,0.658,28873,0.57,49,Moderately healthy vegetation,Phoma Stem Canker
+23.9,66.32,7.8,40.75,oilseed rape,0.363,33100,0.52,12,Moderately healthy vegetation,No Risk
+24.56,91.64,5.92,111.97,barley,0.419,33926,0.59,10,Moderately healthy vegetation,Net Blotch
+19.66,89.94,5.94,108.05,barley,0.396,24741,0.31,39,Moderately healthy vegetation,Net Blotch
+18.78,87.4,6.8,102.52,barley,0.395,24856,0.34,27,Moderately healthy vegetation,Net Blotch
+24.15,94.51,6.42,110.23,barley,0.865,32866,0.52,32,Moderately healthy vegetation,Net Blotch
+22.45,89.9,6.74,109.39,barley,0.598,33502,0.45,29,Moderately healthy vegetation,Net Blotch
+24.96,92.41,6.5,109.42,barley,0.784,20831,0.62,46,"Very healthy, dense vegetation",Net Blotch
+22.55,89.33,6.33,104.9,barley,0.942,24939,0.49,57,Moderately healthy vegetation,Net Blotch
+22.77,91.45,6.36,106.97,barley,0.625,29599,0.31,21,Moderately healthy vegetation,Net Blotch
+19.2,94.28,6.92,108.04,barley,0.807,32216,0.47,48,Moderately healthy vegetation,Net Blotch
+23.13,92.68,6.63,109.39,barley,0.742,20294,0.48,53,Moderately healthy vegetation,Net Blotch
+24.93,85.19,5.83,104.77,barley,0.619,21611,0.31,23,Moderately healthy vegetation,Net Blotch
+24.77,85.64,6.74,105.76,barley,0.69,28863,0.57,19,Moderately healthy vegetation,Net Blotch
+19.87,86.36,5.78,108.32,barley,0.579,24464,0.42,44,Moderately healthy vegetation,Net Blotch
+24.27,93.8,6.54,104.54,barley,0.79,23921,0.34,11,Moderately healthy vegetation,Net Blotch
+23.63,89.73,6.15,107.68,barley,0.66,26218,0.42,54,Moderately healthy vegetation,Net Blotch
+19.68,89.09,6.89,108.55,barley,0.644,27589,0.35,17,Moderately healthy vegetation,Net Blotch
+22.37,92.31,7.18,104.82,barley,0.708,25075,0.52,52,Moderately healthy vegetation,Net Blotch
+21.58,94.88,5.94,102.86,barley,0.416,25770,0.43,23,Moderately healthy vegetation,Net Blotch
+18.26,88.17,5.71,108.08,barley,0.605,25705,0.5,40,Moderately healthy vegetation,Net Blotch
+23.71,89.62,6.18,105.65,barley,0.999,31765,0.65,38,"Very healthy, dense vegetation",Net Blotch
+22.49,89.92,6.55,111.66,barley,0.692,28265,0.49,56,Moderately healthy vegetation,Net Blotch
+21.66,94.79,5.89,112.43,barley,0.458,33412,0.57,27,Moderately healthy vegetation,Net Blotch
+20.13,89.32,6.14,107.34,barley,0.464,24414,0.49,46,Moderately healthy vegetation,Net Blotch
+18.41,91.12,6.1,105.18,barley,0.678,31478,0.52,37,Moderately healthy vegetation,Net Blotch
+19.68,89.75,6.59,111.28,barley,0.511,26590,0.67,33,"Very healthy, dense vegetation",Net Blotch
+23.2,91.19,6.86,109.09,barley,0.757,23239,0.46,18,Moderately healthy vegetation,Net Blotch
+18.92,87.31,6.57,102.8,barley,0.488,34319,0.34,40,Moderately healthy vegetation,Net Blotch
+22.11,91.34,6.77,106.87,barley,0.834,30312,0.34,25,Moderately healthy vegetation,Net Blotch
+18.47,89.69,7.13,108.48,barley,0.779,30595,0.55,30,Moderately healthy vegetation,Net Blotch
+19.81,88.93,5.74,102.86,barley,0.43,30913,0.58,59,Moderately healthy vegetation,Net Blotch
+24.49,90.84,5.84,103.2,barley,0.883,23866,0.41,44,Moderately healthy vegetation,Net Blotch
+18.76,89.93,6.65,111.02,barley,0.78,31756,0.41,17,Moderately healthy vegetation,Net Blotch
+19.54,90.3,6.9,104.37,barley,0.938,28587,0.37,35,Moderately healthy vegetation,Net Blotch
+18.91,87.75,6.61,111.28,barley,0.885,34440,0.53,17,Moderately healthy vegetation,Net Blotch
+19.91,94.95,6.83,104.03,barley,0.84,20909,0.47,14,Moderately healthy vegetation,Net Blotch
+19.73,89.65,6.91,108.23,barley,0.462,23116,0.37,27,Moderately healthy vegetation,Net Blotch
+23.83,87.84,6.31,111.22,barley,0.935,20448,0.59,57,Moderately healthy vegetation,Net Blotch
+24.94,94.26,7.01,103.88,barley,0.616,26100,0.33,17,Moderately healthy vegetation,Net Blotch
+24.69,93.87,6.3,104.67,barley,0.594,20921,0.38,43,Moderately healthy vegetation,Net Blotch
+24.72,85.56,6.73,111.28,barley,0.545,30447,0.3,60,Moderately healthy vegetation,Net Blotch
+20.13,87.6,6.97,108.07,barley,0.744,23261,0.64,32,"Very healthy, dense vegetation",Net Blotch
+21.02,93.06,5.58,104.78,barley,0.72,28540,0.54,11,Moderately healthy vegetation,Net Blotch
+22.4,88.15,7.2,109.87,barley,0.36,27149,0.37,20,Moderately healthy vegetation,Net Blotch
+20.34,89.38,5.84,110.97,barley,0.393,23122,0.42,49,Moderately healthy vegetation,Net Blotch
+24.25,85.56,6.71,106.92,barley,0.601,20902,0.5,38,Moderately healthy vegetation,Net Blotch
+24.82,91.91,5.97,109.29,barley,0.686,31840,0.65,47,"Very healthy, dense vegetation",Net Blotch
+19.66,87.95,5.56,106.04,barley,0.53,28624,0.68,21,"Very healthy, dense vegetation",Net Blotch
+22.43,90.34,6.11,112.46,barley,0.879,31194,0.45,37,Moderately healthy vegetation,Net Blotch
+22.92,85.13,6.99,110.24,barley,0.728,31801,0.59,35,Moderately healthy vegetation,Net Blotch
+22.92,85.41,7.13,106.28,barley,0.976,27819,0.5,33,Moderately healthy vegetation,Net Blotch
+24.88,89.4,7.09,107.2,barley,0.314,32941,0.54,48,Moderately healthy vegetation,Net Blotch
+23.41,93.13,6.75,105.22,barley,0.762,21444,0.59,18,Moderately healthy vegetation,Net Blotch
+21.21,94.26,7.16,107.57,barley,0.591,21350,0.4,55,Moderately healthy vegetation,Net Blotch
+18.2,91.12,7.01,109.66,barley,0.896,34516,0.32,11,Moderately healthy vegetation,Net Blotch
+22.34,89.79,5.65,103.32,barley,0.528,27352,0.53,38,Moderately healthy vegetation,Net Blotch
+24.33,90.88,6.61,110.46,barley,0.818,22503,0.49,59,Moderately healthy vegetation,Net Blotch
+19.75,88.72,7.05,102.55,barley,0.915,24267,0.57,53,Moderately healthy vegetation,Net Blotch
+19.86,86.2,6.03,111.02,barley,0.433,30841,0.51,11,Moderately healthy vegetation,Net Blotch
+18.07,93.15,5.78,106.36,barley,0.647,32374,0.68,33,"Very healthy, dense vegetation",Net Blotch
+23.89,89.62,6.54,104.62,barley,0.671,27094,0.42,10,Moderately healthy vegetation,Net Blotch
+23.99,93.34,5.68,104.99,barley,0.771,22603,0.6,47,"Very healthy, dense vegetation",Net Blotch
+20.94,85.43,6.12,103.03,barley,0.499,33082,0.58,23,Moderately healthy vegetation,Net Blotch
+20.82,87.23,7.0,109.44,barley,0.667,32685,0.53,42,Moderately healthy vegetation,Net Blotch
+20.86,91.62,6.28,106.87,barley,0.707,34559,0.69,31,"Very healthy, dense vegetation",Net Blotch
+24.46,86.11,6.32,111.38,barley,0.541,24233,0.51,48,Moderately healthy vegetation,Net Blotch
+24.51,90.64,5.96,105.62,barley,0.59,20999,0.36,59,Moderately healthy vegetation,Net Blotch
+24.57,92.03,6.59,110.96,barley,0.779,24770,0.53,50,Moderately healthy vegetation,Net Blotch
+24.63,89.02,7.1,110.7,barley,0.814,32360,0.49,51,Moderately healthy vegetation,Net Blotch
+20.07,90.98,6.41,103.71,barley,0.375,20898,0.68,46,"Very healthy, dense vegetation",Net Blotch
+21.81,94.64,6.66,102.65,barley,0.968,22339,0.54,30,Moderately healthy vegetation,Net Blotch
+22.81,86.34,6.28,110.44,barley,0.771,31471,0.57,17,Moderately healthy vegetation,Net Blotch
+22.73,88.49,6.83,104.68,barley,0.325,22341,0.53,33,Moderately healthy vegetation,Net Blotch
+23.28,94.94,6.37,111.14,barley,0.892,29984,0.66,46,"Very healthy, dense vegetation",Net Blotch
+19.3,87.18,7.01,105.48,barley,0.882,26151,0.49,29,Moderately healthy vegetation,Net Blotch
+19.01,88.84,6.9,108.68,barley,0.768,20938,0.66,14,"Very healthy, dense vegetation",Net Blotch
+24.35,90.89,6.15,105.53,barley,0.651,32586,0.37,36,Moderately healthy vegetation,Net Blotch
+24.72,88.88,5.74,112.19,barley,0.512,29345,0.38,58,Moderately healthy vegetation,Net Blotch
+21.93,94.46,7.05,111.72,barley,0.658,24679,0.37,27,Moderately healthy vegetation,Net Blotch
+24.84,86.89,6.03,107.64,barley,0.612,23921,0.57,38,Moderately healthy vegetation,Net Blotch
+18.1,90.42,6.92,104.88,barley,0.804,27072,0.56,41,Moderately healthy vegetation,Net Blotch
+20.24,91.09,6.89,109.25,barley,0.597,27612,0.45,13,Moderately healthy vegetation,Net Blotch
+23.23,94.43,6.84,105.69,barley,0.754,23023,0.7,31,"Very healthy, dense vegetation",Net Blotch
+23.5,92.98,5.79,106.62,barley,0.809,25944,0.32,10,Moderately healthy vegetation,Net Blotch
+19.45,89.02,5.63,106.16,barley,0.914,32458,0.5,41,Moderately healthy vegetation,Net Blotch
+20.51,92.52,5.7,110.58,barley,0.525,25008,0.34,30,Moderately healthy vegetation,Net Blotch
+18.9,95.0,5.57,107.61,barley,0.36,31544,0.32,54,Moderately healthy vegetation,Net Blotch
+18.91,89.24,6.08,112.48,barley,0.617,32546,0.65,24,"Very healthy, dense vegetation",Net Blotch
+22.63,88.46,6.4,109.04,barley,0.953,32623,0.69,49,"Very healthy, dense vegetation",Net Blotch
+19.39,86.79,5.77,109.91,barley,0.77,33570,0.46,41,Moderately healthy vegetation,Net Blotch
+24.38,91.19,7.08,103.6,barley,0.945,32530,0.42,40,Moderately healthy vegetation,Net Blotch
+23.78,92.93,5.89,106.98,barley,0.542,28491,0.31,47,Moderately healthy vegetation,Net Blotch
+22.6,93.16,7.06,110.09,barley,0.477,21606,0.64,17,"Very healthy, dense vegetation",Net Blotch
+24.38,85.4,5.78,106.13,barley,0.856,28591,0.49,30,Moderately healthy vegetation,Net Blotch
+20.89,91.08,6.27,104.44,barley,0.713,23472,0.63,35,"Very healthy, dense vegetation",Net Blotch
+18.1,85.71,5.89,107.01,barley,0.391,25557,0.43,13,Moderately healthy vegetation,Net Blotch
+20.0,85.84,7.12,112.34,barley,0.907,32422,0.58,60,Moderately healthy vegetation,Net Blotch
+19.85,89.81,6.43,102.82,barley,0.42,29914,0.68,23,"Very healthy, dense vegetation",Net Blotch
+21.25,92.65,7.16,106.28,barley,0.326,23181,0.31,53,Moderately healthy vegetation,Net Blotch
+23.65,93.33,6.43,109.81,barley,0.922,21986,0.35,43,Moderately healthy vegetation,Net Blotch
+23.88,86.21,6.08,108.31,barley,0.55,26872,0.51,45,Moderately healthy vegetation,Net Blotch
